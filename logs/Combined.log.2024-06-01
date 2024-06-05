@@ -1,0 +1,69 @@
+info: 2024-06-01T06:41:58.102Z TenantController {/tenant}: }
+info: 2024-06-01T06:41:58.105Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T06:41:58.108Z Nest application successfully started }
+info: 2024-06-01T06:48:43.298Z TenantController {/tenant}: }
+info: 2024-06-01T06:48:43.301Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T06:48:43.303Z Nest application successfully started }
+info: 2024-06-01T07:37:00.188Z TenantController {/tenant}: }
+info: 2024-06-01T07:37:00.190Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:37:00.193Z Nest application successfully started }
+info: 2024-06-01T07:37:26.309Z TenantController {/tenant}: }
+info: 2024-06-01T07:37:26.312Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:37:26.315Z Nest application successfully started }
+info: 2024-06-01T07:37:27.903Z TenantController {/tenant}: }
+info: 2024-06-01T07:37:27.905Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:37:27.907Z Nest application successfully started }
+info: 2024-06-01T07:37:43.538Z TenantController {/tenant}: }
+info: 2024-06-01T07:37:43.540Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:37:43.543Z Nest application successfully started }
+info: 2024-06-01T07:37:49.598Z TenantController {/tenant}: }
+info: 2024-06-01T07:37:49.600Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:37:49.603Z Nest application successfully started }
+info: 2024-06-01T07:37:52.410Z TenantController {/tenant}: }
+info: 2024-06-01T07:37:52.413Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:37:52.415Z Nest application successfully started }
+info: 2024-06-01T07:37:58.691Z TenantController {/tenant}: }
+info: 2024-06-01T07:37:58.694Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:37:58.696Z Nest application successfully started }
+info: 2024-06-01T07:39:58.797Z TenantController {/tenant}: }
+info: 2024-06-01T07:39:58.799Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:39:58.802Z Nest application successfully started }
+info: 2024-06-01T07:40:08.308Z TenantController {/tenant}: }
+info: 2024-06-01T07:40:08.310Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:40:08.313Z Nest application successfully started }
+info: 2024-06-01T07:40:10.150Z TenantController {/tenant}: }
+info: 2024-06-01T07:40:10.152Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:40:10.155Z Nest application successfully started }
+info: 2024-06-01T07:40:11.536Z TenantController {/tenant}: }
+info: 2024-06-01T07:40:11.539Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:40:11.543Z Nest application successfully started }
+info: 2024-06-01T07:40:15.956Z TenantController {/tenant}: }
+info: 2024-06-01T07:40:15.960Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:40:15.964Z Nest application successfully started }
+info: 2024-06-01T07:40:25.944Z TenantController {/tenant}: }
+info: 2024-06-01T07:40:25.946Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:40:25.949Z Nest application successfully started }
+info: 2024-06-01T07:40:29.374Z TenantController {/tenant}: }
+info: 2024-06-01T07:40:29.376Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:40:29.379Z Nest application successfully started }
+info: 2024-06-01T07:42:20.393Z TenantController {/tenant}: }
+info: 2024-06-01T07:42:20.396Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T07:42:20.398Z Nest application successfully started }
+info: 2024-06-01T08:17:50.564Z TenantController {/tenant}: }
+info: 2024-06-01T08:17:50.566Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T08:17:50.569Z Nest application successfully started }
+info: 2024-06-01T09:00:41.318Z TenantController {/tenant}: }
+info: 2024-06-01T09:00:41.320Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T09:00:41.323Z Nest application successfully started }
+info: 2024-06-01T09:00:42.938Z TenantController {/tenant}: }
+info: 2024-06-01T09:00:42.941Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T09:00:42.943Z Nest application successfully started }
+info: 2024-06-01T09:00:44.081Z TenantController {/tenant}: }
+info: 2024-06-01T09:00:44.084Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T09:00:44.086Z Nest application successfully started }
+info: 2024-06-01T09:00:46.453Z TenantController {/tenant}: }
+info: 2024-06-01T09:00:46.456Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T09:00:46.458Z Nest application successfully started }
+info: 2024-06-01T11:47:07.464Z TenantController {/tenant}: }
+info: 2024-06-01T11:47:07.467Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-01T11:47:07.470Z Nest application successfully started }

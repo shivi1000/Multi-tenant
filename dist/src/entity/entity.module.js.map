@@ -1,0 +1,1 @@
+{"version":3,"file":"entity.module.js","sourceRoot":"","sources":["../../../src/entity/entity.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,+DAAkE;AAClE,+DAA6D;AAStD,IAAM,YAAY,GAAlB,MAAM,YAAY;CAAG,CAAA;AAAf,oCAAY;uBAAZ,YAAY;IAPxB,IAAA,eAAM,EAAC;QACN,OAAO,EAAE,CAAC,0BAAc,CAAC;QACzB,SAAS,EAAE;YACT,GAAG,iCAAe;SACnB;QACD,OAAO,EAAE,EAAE;KACZ,CAAC;GACW,YAAY,CAAG"}

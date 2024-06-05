@@ -1,0 +1,2240 @@
+info: 2024-06-02T07:12:18.926Z TenantController {/tenant}: }
+info: 2024-06-02T07:12:18.931Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:12:18.932Z EmployeeController {/employee}: }
+info: 2024-06-02T07:12:18.932Z Mapped {/employee/employee, POST} route }
+info: 2024-06-02T07:12:18.933Z Mapped {/employee/employee, GET} route }
+info: 2024-06-02T07:12:18.934Z Mapped {/employee/employee, PATCH} route }
+info: 2024-06-02T07:12:18.935Z Mapped {/employee/employee, DELETE} route }
+info: 2024-06-02T07:12:18.941Z Nest application successfully started }
+info: 2024-06-02T07:12:53.596Z TenantController {/tenant}: }
+info: 2024-06-02T07:12:53.601Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:12:53.602Z EmployeeController {/employee}: }
+info: 2024-06-02T07:12:53.602Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:12:53.603Z Mapped {/employee/employee, GET} route }
+info: 2024-06-02T07:12:53.603Z Mapped {/employee/employee, PATCH} route }
+info: 2024-06-02T07:12:53.604Z Mapped {/employee/employee, DELETE} route }
+info: 2024-06-02T07:12:53.609Z Nest application successfully started }
+info: 2024-06-02T07:12:58.427Z TenantController {/tenant}: }
+info: 2024-06-02T07:12:58.432Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:12:58.432Z EmployeeController {/employee}: }
+info: 2024-06-02T07:12:58.433Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:12:58.434Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:12:58.434Z Mapped {/employee/employee, PATCH} route }
+info: 2024-06-02T07:12:58.435Z Mapped {/employee/employee, DELETE} route }
+info: 2024-06-02T07:12:58.439Z Nest application successfully started }
+info: 2024-06-02T07:13:03.173Z TenantController {/tenant}: }
+info: 2024-06-02T07:13:03.177Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:13:03.177Z EmployeeController {/employee}: }
+info: 2024-06-02T07:13:03.178Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:13:03.180Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:13:03.180Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:13:03.181Z Mapped {/employee/employee, DELETE} route }
+info: 2024-06-02T07:13:03.187Z Nest application successfully started }
+info: 2024-06-02T07:13:07.914Z TenantController {/tenant}: }
+info: 2024-06-02T07:13:07.919Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:13:07.919Z EmployeeController {/employee}: }
+info: 2024-06-02T07:13:07.920Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:13:07.921Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:13:07.922Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:13:07.923Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:13:07.933Z Nest application successfully started }
+info: 2024-06-02T07:14:52.881Z TenantController {/tenant}: }
+info: 2024-06-02T07:14:52.885Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:14:52.885Z EmployeeController {/employee}: }
+info: 2024-06-02T07:14:52.886Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:14:52.887Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:14:52.888Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:14:52.888Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:14:52.893Z Nest application successfully started }
+info: 2024-06-02T07:14:57.137Z TenantController {/tenant}: }
+info: 2024-06-02T07:14:57.141Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:14:57.141Z EmployeeController {/employee}: }
+info: 2024-06-02T07:14:57.142Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:14:57.143Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:14:57.143Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:14:57.145Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:14:57.149Z Nest application successfully started }
+info: 2024-06-02T07:15:01.224Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:01.229Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:01.230Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:01.231Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:01.233Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:01.235Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:01.237Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:01.252Z Nest application successfully started }
+info: 2024-06-02T07:15:02.486Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:02.490Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:02.490Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:02.491Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:02.492Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:02.493Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:02.493Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:02.498Z Nest application successfully started }
+info: 2024-06-02T07:15:21.119Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:21.123Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:21.123Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:21.123Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:21.124Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:21.124Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:21.125Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:21.131Z Nest application successfully started }
+info: 2024-06-02T07:15:24.798Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:24.802Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:24.802Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:24.803Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:24.803Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:24.804Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:24.804Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:24.811Z Nest application successfully started }
+info: 2024-06-02T07:15:27.813Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:27.817Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:27.818Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:27.818Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:27.819Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:27.820Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:27.820Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:27.828Z Nest application successfully started }
+info: 2024-06-02T07:15:29.957Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:29.961Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:29.961Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:29.962Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:29.962Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:29.963Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:29.963Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:29.968Z Nest application successfully started }
+info: 2024-06-02T07:15:34.197Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:34.203Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:34.203Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:34.203Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:34.205Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:34.206Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:34.206Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:34.211Z Nest application successfully started }
+info: 2024-06-02T07:15:38.390Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:38.393Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:38.393Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:38.394Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:38.394Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:38.395Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:38.395Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:38.401Z Nest application successfully started }
+info: 2024-06-02T07:15:39.454Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:39.458Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:39.458Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:39.459Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:39.459Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:39.460Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:39.460Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:39.464Z Nest application successfully started }
+info: 2024-06-02T07:15:42.425Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:42.430Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:42.431Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:42.432Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:42.433Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:42.434Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:42.435Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:42.441Z Nest application successfully started }
+info: 2024-06-02T07:15:47.977Z TenantController {/tenant}: }
+info: 2024-06-02T07:15:47.981Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:15:47.981Z EmployeeController {/employee}: }
+info: 2024-06-02T07:15:47.982Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:15:47.983Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:15:47.984Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:15:47.984Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:15:47.990Z Nest application successfully started }
+info: 2024-06-02T07:16:11.922Z TenantController {/tenant}: }
+info: 2024-06-02T07:16:11.926Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:16:11.926Z EmployeeController {/employee}: }
+info: 2024-06-02T07:16:11.927Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:16:11.927Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:16:11.927Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:16:11.928Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:16:11.933Z Nest application successfully started }
+info: 2024-06-02T07:16:12.999Z TenantController {/tenant}: }
+info: 2024-06-02T07:16:13.003Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:16:13.003Z EmployeeController {/employee}: }
+info: 2024-06-02T07:16:13.003Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:16:13.004Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:16:13.004Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:16:13.005Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:16:13.010Z Nest application successfully started }
+info: 2024-06-02T07:16:34.627Z TenantController {/tenant}: }
+info: 2024-06-02T07:16:34.631Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:16:34.631Z EmployeeController {/employee}: }
+info: 2024-06-02T07:16:34.632Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:16:34.633Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:16:34.634Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:16:34.634Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:16:34.639Z Nest application successfully started }
+info: 2024-06-02T07:16:36.342Z TenantController {/tenant}: }
+info: 2024-06-02T07:16:36.350Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:16:36.350Z EmployeeController {/employee}: }
+info: 2024-06-02T07:16:36.351Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:16:36.352Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:16:36.353Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:16:36.354Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:16:36.362Z Nest application successfully started }
+info: 2024-06-02T07:16:37.497Z TenantController {/tenant}: }
+info: 2024-06-02T07:16:37.501Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:16:37.501Z EmployeeController {/employee}: }
+info: 2024-06-02T07:16:37.502Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:16:37.502Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:16:37.503Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:16:37.503Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:16:37.507Z Nest application successfully started }
+info: 2024-06-02T07:16:41.066Z TenantController {/tenant}: }
+info: 2024-06-02T07:16:41.070Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:16:41.070Z EmployeeController {/employee}: }
+info: 2024-06-02T07:16:41.071Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:16:41.071Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:16:41.072Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:16:41.072Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:16:41.076Z Nest application successfully started }
+info: 2024-06-02T07:16:42.870Z TenantController {/tenant}: }
+info: 2024-06-02T07:16:42.874Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:16:42.874Z EmployeeController {/employee}: }
+info: 2024-06-02T07:16:42.875Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:16:42.875Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:16:42.875Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:16:42.876Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:16:42.881Z Nest application successfully started }
+info: 2024-06-02T07:16:55.025Z TenantController {/tenant}: }
+info: 2024-06-02T07:16:55.029Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:16:55.029Z EmployeeController {/employee}: }
+info: 2024-06-02T07:16:55.030Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:16:55.030Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:16:55.031Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:16:55.031Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:16:55.036Z Nest application successfully started }
+info: 2024-06-02T07:17:01.619Z TenantController {/tenant}: }
+info: 2024-06-02T07:17:01.626Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:17:01.627Z EmployeeController {/employee}: }
+info: 2024-06-02T07:17:01.629Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:17:01.630Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:17:01.632Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:17:01.632Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:17:01.640Z Nest application successfully started }
+info: 2024-06-02T07:31:17.322Z TenantController {/tenant}: }
+info: 2024-06-02T07:31:17.325Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:31:17.326Z EmployeeController {/employee}: }
+info: 2024-06-02T07:31:17.326Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:31:17.327Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:31:17.327Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:31:17.328Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:31:17.332Z Nest application successfully started }
+info: 2024-06-02T07:31:22.008Z TenantController {/tenant}: }
+info: 2024-06-02T07:31:22.011Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:31:22.011Z EmployeeController {/employee}: }
+info: 2024-06-02T07:31:22.012Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:31:22.012Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:31:22.012Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:31:22.013Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:31:22.019Z Nest application successfully started }
+info: 2024-06-02T07:31:26.354Z TenantController {/tenant}: }
+info: 2024-06-02T07:31:26.358Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:31:26.358Z EmployeeController {/employee}: }
+info: 2024-06-02T07:31:26.359Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:31:26.360Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:31:26.360Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:31:26.361Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:31:26.367Z Nest application successfully started }
+info: 2024-06-02T07:31:46.856Z TenantController {/tenant}: }
+info: 2024-06-02T07:31:46.859Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:31:46.859Z EmployeeController {/employee}: }
+info: 2024-06-02T07:31:46.860Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:31:46.860Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:31:46.861Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:31:46.862Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:31:46.867Z Nest application successfully started }
+info: 2024-06-02T07:32:03.074Z TenantController {/tenant}: }
+info: 2024-06-02T07:32:03.078Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:32:03.078Z EmployeeController {/employee}: }
+info: 2024-06-02T07:32:03.079Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:32:03.079Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:32:03.080Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:32:03.080Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:32:03.085Z Nest application successfully started }
+info: 2024-06-02T07:33:59.129Z TenantController {/tenant}: }
+info: 2024-06-02T07:33:59.133Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:33:59.134Z EmployeeController {/employee}: }
+info: 2024-06-02T07:33:59.134Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:33:59.135Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:33:59.136Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:33:59.136Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:33:59.143Z Nest application successfully started }
+info: 2024-06-02T07:42:10.213Z TenantController {/tenant}: }
+info: 2024-06-02T07:42:10.218Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:42:10.218Z EmployeeController {/employee}: }
+info: 2024-06-02T07:42:10.219Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:42:10.219Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:42:10.220Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:42:10.221Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:42:10.225Z Nest application successfully started }
+info: 2024-06-02T07:42:20.467Z TenantController {/tenant}: }
+info: 2024-06-02T07:42:20.472Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:42:20.472Z EmployeeController {/employee}: }
+info: 2024-06-02T07:42:20.472Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:42:20.473Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:42:20.474Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:42:20.474Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:42:20.481Z Nest application successfully started }
+info: 2024-06-02T07:42:26.210Z TenantController {/tenant}: }
+info: 2024-06-02T07:42:26.214Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:42:26.214Z EmployeeController {/employee}: }
+info: 2024-06-02T07:42:26.215Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:42:26.216Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:42:26.217Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:42:26.217Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:42:26.222Z Nest application successfully started }
+info: 2024-06-02T07:42:30.690Z TenantController {/tenant}: }
+info: 2024-06-02T07:42:30.694Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:42:30.694Z EmployeeController {/employee}: }
+info: 2024-06-02T07:42:30.695Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:42:30.695Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:42:30.696Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:42:30.696Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:42:30.704Z Nest application successfully started }
+info: 2024-06-02T07:43:32.605Z TenantController {/tenant}: }
+info: 2024-06-02T07:43:32.608Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:43:32.608Z EmployeeController {/employee}: }
+info: 2024-06-02T07:43:32.609Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:43:32.609Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:43:32.610Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:43:32.610Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:43:32.616Z Nest application successfully started }
+info: 2024-06-02T07:52:18.001Z TenantController {/tenant}: }
+info: 2024-06-02T07:52:18.005Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:52:18.005Z EmployeeController {/employee}: }
+info: 2024-06-02T07:52:18.006Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:52:18.006Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:52:18.007Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:52:18.007Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:52:18.012Z Nest application successfully started }
+info: 2024-06-02T07:52:57.028Z TenantController {/tenant}: }
+info: 2024-06-02T07:52:57.032Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T07:52:57.032Z EmployeeController {/employee}: }
+info: 2024-06-02T07:52:57.032Z Mapped {/employee, POST} route }
+info: 2024-06-02T07:52:57.033Z Mapped {/employee, GET} route }
+info: 2024-06-02T07:52:57.034Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T07:52:57.034Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T07:52:57.040Z Nest application successfully started }
+info: 2024-06-02T08:01:27.593Z TenantController {/tenant}: }
+info: 2024-06-02T08:01:27.597Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:01:27.597Z EmployeeController {/employee-pool}: }
+info: 2024-06-02T08:01:27.598Z Mapped {/employee-pool, POST} route }
+info: 2024-06-02T08:01:27.598Z Mapped {/employee-pool, GET} route }
+info: 2024-06-02T08:01:27.599Z Mapped {/employee-pool, PATCH} route }
+info: 2024-06-02T08:01:27.599Z Mapped {/employee-pool, DELETE} route }
+info: 2024-06-02T08:01:27.603Z Nest application successfully started }
+info: 2024-06-02T08:01:40.547Z TenantController {/tenant}: }
+info: 2024-06-02T08:01:40.550Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:01:40.550Z EmployeeController {/employee-pool}: }
+info: 2024-06-02T08:01:40.551Z Mapped {/employee-pool, POST} route }
+info: 2024-06-02T08:01:40.551Z Mapped {/employee-pool, GET} route }
+info: 2024-06-02T08:01:40.552Z Mapped {/employee-pool, PATCH} route }
+info: 2024-06-02T08:01:40.553Z Mapped {/employee-pool, DELETE} route }
+info: 2024-06-02T08:01:40.559Z Nest application successfully started }
+info: 2024-06-02T08:02:23.262Z TenantController {/tenant}: }
+info: 2024-06-02T08:02:23.266Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:02:23.266Z EmployeeController {/employee-pool}: }
+info: 2024-06-02T08:02:23.267Z Mapped {/employee-pool, POST} route }
+info: 2024-06-02T08:02:23.267Z Mapped {/employee-pool, GET} route }
+info: 2024-06-02T08:02:23.267Z Mapped {/employee-pool, PATCH} route }
+info: 2024-06-02T08:02:23.268Z Mapped {/employee-pool, DELETE} route }
+info: 2024-06-02T08:02:23.276Z Nest application successfully started }
+info: 2024-06-02T08:02:29.732Z TenantController {/tenant}: }
+info: 2024-06-02T08:02:29.736Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:02:29.736Z EmployeeController {/employee}: }
+info: 2024-06-02T08:02:29.736Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:02:29.737Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:02:29.738Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:02:29.738Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:02:29.747Z Nest application successfully started }
+info: 2024-06-02T08:02:46.697Z TenantController {/tenant}: }
+info: 2024-06-02T08:02:46.702Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:02:46.702Z EmployeeController {/employee}: }
+info: 2024-06-02T08:02:46.703Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:02:46.703Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:02:46.704Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:02:46.705Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:02:46.714Z Nest application successfully started }
+info: 2024-06-02T08:04:54.404Z TenantController {/tenant}: }
+info: 2024-06-02T08:04:54.411Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:04:54.411Z EmployeeController {/employee}: }
+info: 2024-06-02T08:04:54.412Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:04:54.414Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:04:54.414Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:04:54.415Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:04:54.419Z Nest application successfully started }
+info: 2024-06-02T08:04:56.071Z TenantController {/tenant}: }
+info: 2024-06-02T08:04:56.077Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:04:56.077Z EmployeeController {/employee}: }
+info: 2024-06-02T08:04:56.078Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:04:56.078Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:04:56.079Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:04:56.079Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:04:56.084Z Nest application successfully started }
+info: 2024-06-02T08:04:57.974Z TenantController {/tenant}: }
+info: 2024-06-02T08:04:57.980Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:04:57.981Z EmployeeController {/employee}: }
+info: 2024-06-02T08:04:57.982Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:04:57.983Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:04:57.983Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:04:57.984Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:04:57.991Z Nest application successfully started }
+info: 2024-06-02T08:05:00.118Z TenantController {/tenant}: }
+info: 2024-06-02T08:05:00.123Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:05:00.123Z EmployeeController {/employee}: }
+info: 2024-06-02T08:05:00.124Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:05:00.126Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:05:00.127Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:05:00.127Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:05:00.133Z Nest application successfully started }
+info: 2024-06-02T08:05:02.582Z TenantController {/tenant}: }
+info: 2024-06-02T08:05:02.586Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:05:02.586Z EmployeeController {/employee}: }
+info: 2024-06-02T08:05:02.587Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:05:02.587Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:05:02.588Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:05:02.588Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:05:02.595Z Nest application successfully started }
+info: 2024-06-02T08:05:09.741Z TenantController {/tenant}: }
+info: 2024-06-02T08:05:09.746Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:05:09.746Z EmployeeController {/employee}: }
+info: 2024-06-02T08:05:09.747Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:05:09.747Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:05:09.747Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:05:09.748Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:05:09.752Z Nest application successfully started }
+info: 2024-06-02T08:05:20.292Z TenantController {/tenant}: }
+info: 2024-06-02T08:05:20.298Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:05:20.298Z EmployeeController {/employee}: }
+info: 2024-06-02T08:05:20.298Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:05:20.299Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:05:20.300Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:05:20.300Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:05:20.308Z Nest application successfully started }
+info: 2024-06-02T08:05:25.453Z TenantController {/tenant}: }
+info: 2024-06-02T08:05:25.456Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:05:25.457Z EmployeeController {/employee}: }
+info: 2024-06-02T08:05:25.458Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:05:25.459Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:05:25.460Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:05:25.461Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:05:25.466Z Nest application successfully started }
+info: 2024-06-02T08:07:05.428Z TenantController {/tenant}: }
+info: 2024-06-02T08:07:05.436Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:07:05.436Z EmployeeController {/employee}: }
+info: 2024-06-02T08:07:05.438Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:07:05.438Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:07:05.439Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:07:05.439Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:07:05.444Z Nest application successfully started }
+info: 2024-06-02T08:07:07.089Z TenantController {/tenant}: }
+info: 2024-06-02T08:07:07.093Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:07:07.094Z EmployeeController {/employee}: }
+info: 2024-06-02T08:07:07.094Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:07:07.095Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:07:07.096Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:07:07.097Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:07:07.103Z Nest application successfully started }
+info: 2024-06-02T08:07:09.856Z TenantController {/tenant}: }
+info: 2024-06-02T08:07:09.861Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:07:09.861Z EmployeeController {/employee}: }
+info: 2024-06-02T08:07:09.862Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:07:09.863Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:07:09.863Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:07:09.864Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:07:09.870Z Nest application successfully started }
+info: 2024-06-02T08:07:11.595Z TenantController {/tenant}: }
+info: 2024-06-02T08:07:11.604Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:07:11.605Z EmployeeController {/employee}: }
+info: 2024-06-02T08:07:11.606Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:07:11.609Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:07:11.611Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:07:11.614Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:07:11.623Z Nest application successfully started }
+info: 2024-06-02T08:07:13.139Z TenantController {/tenant}: }
+info: 2024-06-02T08:07:13.145Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:07:13.145Z EmployeeController {/employee}: }
+info: 2024-06-02T08:07:13.146Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:07:13.147Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:07:13.148Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:07:13.148Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:07:13.154Z Nest application successfully started }
+info: 2024-06-02T08:07:18.821Z TenantController {/tenant}: }
+info: 2024-06-02T08:07:18.832Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:07:18.833Z EmployeeController {/employee}: }
+info: 2024-06-02T08:07:18.834Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:07:18.837Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:07:18.839Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:07:18.840Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:07:18.856Z Nest application successfully started }
+info: 2024-06-02T08:07:20.454Z TenantController {/tenant}: }
+info: 2024-06-02T08:07:20.458Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:07:20.459Z EmployeeController {/employee}: }
+info: 2024-06-02T08:07:20.460Z Mapped {/employee/create, POST} route }
+info: 2024-06-02T08:07:20.462Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:07:20.463Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:07:20.464Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:07:20.470Z Nest application successfully started }
+info: 2024-06-02T08:07:51.017Z TenantController {/tenant}: }
+info: 2024-06-02T08:07:51.021Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:07:51.022Z EmployeeController {/employee}: }
+info: 2024-06-02T08:07:51.022Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:07:51.023Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:07:51.024Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:07:51.025Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:07:51.033Z Nest application successfully started }
+info: 2024-06-02T08:08:51.518Z TenantController {/tenant}: }
+info: 2024-06-02T08:08:51.522Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:08:51.523Z EmployeeController {/employee}: }
+info: 2024-06-02T08:08:51.523Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:08:51.524Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:08:51.524Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:08:51.525Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:08:51.532Z Nest application successfully started }
+info: 2024-06-02T08:09:01.925Z TenantController {/tenant}: }
+info: 2024-06-02T08:09:01.931Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:09:01.932Z EmployeeController {/employee}: }
+info: 2024-06-02T08:09:01.934Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:09:01.935Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:09:01.936Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:09:01.937Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:09:01.941Z Nest application successfully started }
+info: 2024-06-02T08:09:03.131Z TenantController {/tenant}: }
+info: 2024-06-02T08:09:03.136Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:09:03.136Z EmployeeController {/employee}: }
+info: 2024-06-02T08:09:03.137Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:09:03.137Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:09:03.138Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:09:03.138Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:09:03.145Z Nest application successfully started }
+info: 2024-06-02T08:09:04.805Z TenantController {/tenant}: }
+info: 2024-06-02T08:09:04.810Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:09:04.810Z EmployeeController {/employee}: }
+info: 2024-06-02T08:09:04.811Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:09:04.813Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:09:04.813Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:09:04.814Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:09:04.820Z Nest application successfully started }
+info: 2024-06-02T08:10:37.222Z TenantController {/tenant}: }
+info: 2024-06-02T08:10:37.231Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:10:37.232Z EmployeeController {/employee}: }
+info: 2024-06-02T08:10:37.233Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:10:37.234Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:10:37.236Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:10:37.236Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:10:37.243Z Nest application successfully started }
+info: 2024-06-02T08:10:52.271Z TenantController {/tenant}: }
+info: 2024-06-02T08:10:52.276Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:10:52.276Z EmployeeController {/employee}: }
+info: 2024-06-02T08:10:52.277Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:10:52.279Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:10:52.280Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:10:52.280Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:10:52.285Z Nest application successfully started }
+info: 2024-06-02T08:11:35.600Z TenantController {/tenant}: }
+info: 2024-06-02T08:11:35.606Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:11:35.606Z EmployeeController {/employee}: }
+info: 2024-06-02T08:11:35.607Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:11:35.608Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:11:35.608Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:11:35.609Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:11:35.616Z Nest application successfully started }
+info: 2024-06-02T08:11:41.466Z TenantController {/tenant}: }
+info: 2024-06-02T08:11:41.471Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:11:41.472Z EmployeeController {/employee}: }
+info: 2024-06-02T08:11:41.472Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:11:41.473Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:11:41.474Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:11:41.474Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:11:41.482Z Nest application successfully started }
+info: 2024-06-02T08:12:36.383Z TenantController {/tenant}: }
+info: 2024-06-02T08:12:36.388Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:12:36.388Z EmployeeController {/employee}: }
+info: 2024-06-02T08:12:36.388Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:12:36.389Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:12:36.389Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:12:36.390Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:12:36.394Z Nest application successfully started }
+info: 2024-06-02T08:12:37.513Z TenantController {/tenant}: }
+info: 2024-06-02T08:12:37.517Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:12:37.518Z EmployeeController {/employee}: }
+info: 2024-06-02T08:12:37.518Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:12:37.520Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:12:37.520Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:12:37.521Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:12:37.525Z Nest application successfully started }
+info: 2024-06-02T08:12:48.150Z TenantController {/tenant}: }
+info: 2024-06-02T08:12:48.155Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:12:48.155Z EmployeeController {/employee}: }
+info: 2024-06-02T08:12:48.155Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:12:48.156Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:12:48.156Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:12:48.157Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:12:48.169Z Nest application successfully started }
+info: 2024-06-02T08:14:15.827Z TenantController {/tenant}: }
+info: 2024-06-02T08:14:15.831Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:14:15.832Z EmployeeController {/employee}: }
+info: 2024-06-02T08:14:15.833Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:14:15.833Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:14:15.834Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:14:15.835Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:14:15.840Z Nest application successfully started }
+info: 2024-06-02T08:15:07.960Z TenantController {/tenant}: }
+info: 2024-06-02T08:15:07.964Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:15:07.965Z EmployeeController {/employee}: }
+info: 2024-06-02T08:15:07.967Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:15:07.968Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:15:07.969Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:15:07.969Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:15:07.974Z Nest application successfully started }
+info: 2024-06-02T08:17:24.730Z TenantController {/tenant}: }
+info: 2024-06-02T08:17:24.736Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:17:24.736Z EmployeeController {/employee}: }
+info: 2024-06-02T08:17:24.737Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:17:24.737Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:17:24.738Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:17:24.738Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:17:24.743Z Nest application successfully started }
+info: 2024-06-02T08:17:29.369Z TenantController {/tenant}: }
+info: 2024-06-02T08:17:29.374Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:17:29.374Z EmployeeController {/employee}: }
+info: 2024-06-02T08:17:29.375Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:17:29.375Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:17:29.376Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:17:29.377Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:17:29.382Z Nest application successfully started }
+info: 2024-06-02T08:17:31.921Z TenantController {/tenant}: }
+info: 2024-06-02T08:17:31.925Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:17:31.925Z EmployeeController {/employee}: }
+info: 2024-06-02T08:17:31.926Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:17:31.927Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:17:31.927Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:17:31.928Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:17:31.934Z Nest application successfully started }
+info: 2024-06-02T08:17:33.564Z TenantController {/tenant}: }
+info: 2024-06-02T08:17:33.570Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:17:33.571Z EmployeeController {/employee}: }
+info: 2024-06-02T08:17:33.571Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:17:33.572Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:17:33.573Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:17:33.573Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:17:33.579Z Nest application successfully started }
+info: 2024-06-02T08:18:59.569Z TenantController {/tenant}: }
+info: 2024-06-02T08:18:59.574Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:18:59.574Z EmployeeController {/employee}: }
+info: 2024-06-02T08:18:59.575Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:18:59.576Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:18:59.577Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:18:59.577Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:18:59.582Z Nest application successfully started }
+info: 2024-06-02T08:19:00.852Z TenantController {/tenant}: }
+info: 2024-06-02T08:19:00.856Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:19:00.856Z EmployeeController {/employee}: }
+info: 2024-06-02T08:19:00.857Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:19:00.857Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:19:00.858Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:19:00.858Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:19:00.865Z Nest application successfully started }
+info: 2024-06-02T08:19:05.992Z TenantController {/tenant}: }
+info: 2024-06-02T08:19:05.997Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:19:05.997Z EmployeeController {/employee}: }
+info: 2024-06-02T08:19:05.999Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:19:06.000Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:19:06.000Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:19:06.001Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:19:06.008Z Nest application successfully started }
+info: 2024-06-02T08:19:08.383Z TenantController {/tenant}: }
+info: 2024-06-02T08:19:08.388Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:19:08.388Z EmployeeController {/employee}: }
+info: 2024-06-02T08:19:08.389Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:19:08.390Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:19:08.391Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:19:08.391Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:19:08.397Z Nest application successfully started }
+info: 2024-06-02T08:19:09.475Z TenantController {/tenant}: }
+info: 2024-06-02T08:19:09.480Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:19:09.481Z EmployeeController {/employee}: }
+info: 2024-06-02T08:19:09.482Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:19:09.483Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:19:09.483Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:19:09.484Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:19:09.490Z Nest application successfully started }
+info: 2024-06-02T08:19:38.615Z TenantController {/tenant}: }
+info: 2024-06-02T08:19:38.621Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:19:38.621Z EmployeeController {/employee}: }
+info: 2024-06-02T08:19:38.622Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:19:38.623Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:19:38.623Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:19:38.624Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:19:38.631Z Nest application successfully started }
+info: 2024-06-02T08:20:04.372Z TenantController {/tenant}: }
+info: 2024-06-02T08:20:04.377Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:20:04.377Z EmployeeController {/employee}: }
+info: 2024-06-02T08:20:04.378Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:20:04.378Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:20:04.379Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:20:04.380Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:20:04.388Z Nest application successfully started }
+info: 2024-06-02T08:20:08.097Z TenantController {/tenant}: }
+info: 2024-06-02T08:20:08.102Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:20:08.103Z EmployeeController {/employee}: }
+info: 2024-06-02T08:20:08.103Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:20:08.104Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:20:08.105Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:20:08.105Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:20:08.111Z Nest application successfully started }
+info: 2024-06-02T08:20:09.787Z TenantController {/tenant}: }
+info: 2024-06-02T08:20:09.791Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:20:09.792Z EmployeeController {/employee}: }
+info: 2024-06-02T08:20:09.792Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:20:09.793Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:20:09.794Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:20:09.794Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:20:09.798Z Nest application successfully started }
+info: 2024-06-02T08:20:14.328Z TenantController {/tenant}: }
+info: 2024-06-02T08:20:14.334Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:20:14.334Z EmployeeController {/employee}: }
+info: 2024-06-02T08:20:14.335Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:20:14.336Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:20:14.337Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:20:14.337Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:20:14.342Z Nest application successfully started }
+info: 2024-06-02T08:20:15.880Z TenantController {/tenant}: }
+info: 2024-06-02T08:20:15.886Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:20:15.886Z EmployeeController {/employee}: }
+info: 2024-06-02T08:20:15.887Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:20:15.889Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:20:15.891Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:20:15.891Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:20:15.897Z Nest application successfully started }
+info: 2024-06-02T08:21:52.926Z TenantController {/tenant}: }
+info: 2024-06-02T08:21:52.940Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:21:52.941Z EmployeeController {/employee}: }
+info: 2024-06-02T08:21:52.943Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:21:52.945Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:21:52.947Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:21:52.950Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:21:52.967Z Nest application successfully started }
+info: 2024-06-02T08:22:01.118Z TenantController {/tenant}: }
+info: 2024-06-02T08:22:01.122Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:22:01.123Z EmployeeController {/employee}: }
+info: 2024-06-02T08:22:01.124Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:22:01.125Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:22:01.125Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:22:01.126Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:22:01.131Z Nest application successfully started }
+info: 2024-06-02T08:22:55.361Z TenantController {/tenant}: }
+info: 2024-06-02T08:22:55.365Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:22:55.366Z EmployeeController {/employee}: }
+info: 2024-06-02T08:22:55.366Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:22:55.367Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:22:55.367Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:22:55.368Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:22:55.375Z Nest application successfully started }
+info: 2024-06-02T08:24:20.899Z TenantController {/tenant}: }
+info: 2024-06-02T08:24:20.902Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:24:20.903Z EmployeeController {/employee}: }
+info: 2024-06-02T08:24:20.904Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:24:20.905Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:24:20.906Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:24:20.906Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:24:20.912Z Nest application successfully started }
+info: 2024-06-02T08:24:24.383Z TenantController {/tenant}: }
+info: 2024-06-02T08:24:24.389Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:24:24.389Z EmployeeController {/employee}: }
+info: 2024-06-02T08:24:24.391Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:24:24.392Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:24:24.392Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:24:24.393Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:24:24.398Z Nest application successfully started }
+info: 2024-06-02T08:24:28.010Z TenantController {/tenant}: }
+info: 2024-06-02T08:24:28.014Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:24:28.014Z EmployeeController {/employee}: }
+info: 2024-06-02T08:24:28.015Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:24:28.015Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:24:28.015Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:24:28.016Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:24:28.022Z Nest application successfully started }
+info: 2024-06-02T08:24:31.355Z TenantController {/tenant}: }
+info: 2024-06-02T08:24:31.364Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:24:31.364Z EmployeeController {/employee}: }
+info: 2024-06-02T08:24:31.366Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:24:31.366Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:24:31.367Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:24:31.368Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:24:31.379Z Nest application successfully started }
+info: 2024-06-02T08:24:33.167Z TenantController {/tenant}: }
+info: 2024-06-02T08:24:33.169Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:24:33.170Z EmployeeController {/employee}: }
+info: 2024-06-02T08:24:33.170Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:24:33.172Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:24:33.173Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:24:33.174Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:24:33.179Z Nest application successfully started }
+info: 2024-06-02T08:24:45.965Z TenantController {/tenant}: }
+info: 2024-06-02T08:24:45.968Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:24:45.968Z EmployeeController {/employee}: }
+info: 2024-06-02T08:24:45.968Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:24:45.969Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:24:45.969Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:24:45.970Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:24:45.977Z Nest application successfully started }
+info: 2024-06-02T08:25:24.595Z TenantController {/tenant}: }
+info: 2024-06-02T08:25:24.599Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:25:24.599Z EmployeeController {/employee}: }
+info: 2024-06-02T08:25:24.600Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:25:24.601Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:25:24.601Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:25:24.602Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:25:24.613Z Nest application successfully started }
+info: 2024-06-02T08:25:30.824Z TenantController {/tenant}: }
+info: 2024-06-02T08:25:30.831Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:25:30.831Z EmployeeController {/employee}: }
+info: 2024-06-02T08:25:30.833Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:25:30.834Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:25:30.835Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:25:30.837Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:25:30.848Z Nest application successfully started }
+info: 2024-06-02T08:25:32.117Z TenantController {/tenant}: }
+info: 2024-06-02T08:25:32.119Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:25:32.120Z EmployeeController {/employee}: }
+info: 2024-06-02T08:25:32.120Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:25:32.121Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:25:32.122Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:25:32.123Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:25:32.128Z Nest application successfully started }
+info: 2024-06-02T08:25:51.343Z TenantController {/tenant}: }
+info: 2024-06-02T08:25:51.347Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:25:51.347Z EmployeeController {/employee}: }
+info: 2024-06-02T08:25:51.348Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:25:51.349Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:25:51.349Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:25:51.350Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:25:51.356Z Nest application successfully started }
+info: 2024-06-02T08:25:57.384Z TenantController {/tenant}: }
+info: 2024-06-02T08:25:57.388Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:25:57.389Z EmployeeController {/employee}: }
+info: 2024-06-02T08:25:57.390Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:25:57.391Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:25:57.391Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:25:57.392Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:25:57.396Z Nest application successfully started }
+info: 2024-06-02T08:26:10.266Z TenantController {/tenant}: }
+info: 2024-06-02T08:26:10.270Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:26:10.270Z EmployeeController {/employee}: }
+info: 2024-06-02T08:26:10.271Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:26:10.273Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:26:10.274Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:26:10.275Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:26:10.282Z Nest application successfully started }
+info: 2024-06-02T08:42:50.307Z TenantController {/tenant}: }
+info: 2024-06-02T08:42:50.311Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:42:50.312Z EmployeeController {/employee}: }
+info: 2024-06-02T08:42:50.312Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:42:50.313Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:42:50.314Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:42:50.315Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:42:50.324Z Nest application successfully started }
+info: 2024-06-02T08:52:35.204Z TenantController {/tenant}: }
+info: 2024-06-02T08:52:35.210Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:52:35.210Z EmployeeController {/employee}: }
+info: 2024-06-02T08:52:35.211Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:52:35.212Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:52:35.212Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:52:35.213Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:52:35.218Z Nest application successfully started }
+info: 2024-06-02T08:52:37.495Z TenantController {/tenant}: }
+info: 2024-06-02T08:52:37.501Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:52:37.502Z EmployeeController {/employee}: }
+info: 2024-06-02T08:52:37.503Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:52:37.504Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:52:37.505Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:52:37.507Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:52:37.516Z Nest application successfully started }
+info: 2024-06-02T08:52:38.264Z TenantController {/tenant}: }
+info: 2024-06-02T08:52:38.270Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:52:38.271Z EmployeeController {/employee}: }
+info: 2024-06-02T08:52:38.271Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:52:38.272Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:52:38.273Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:52:38.274Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:52:38.280Z Nest application successfully started }
+info: 2024-06-02T08:52:42.345Z TenantController {/tenant}: }
+info: 2024-06-02T08:52:42.349Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:52:42.349Z EmployeeController {/employee}: }
+info: 2024-06-02T08:52:42.350Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:52:42.350Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:52:42.351Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:52:42.353Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:52:42.360Z Nest application successfully started }
+info: 2024-06-02T08:52:44.475Z TenantController {/tenant}: }
+info: 2024-06-02T08:52:44.479Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:52:44.479Z EmployeeController {/employee}: }
+info: 2024-06-02T08:52:44.480Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:52:44.480Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:52:44.481Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:52:44.482Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:52:44.494Z Nest application successfully started }
+info: 2024-06-02T08:52:48.443Z TenantController {/tenant}: }
+info: 2024-06-02T08:52:48.447Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:52:48.447Z EmployeeController {/employee}: }
+info: 2024-06-02T08:52:48.448Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:52:48.448Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:52:48.449Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:52:48.450Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:52:48.459Z Nest application successfully started }
+info: 2024-06-02T08:52:52.459Z TenantController {/tenant}: }
+info: 2024-06-02T08:52:52.464Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:52:52.464Z EmployeeController {/employee}: }
+info: 2024-06-02T08:52:52.465Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:52:52.466Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:52:52.466Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:52:52.467Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:52:52.477Z Nest application successfully started }
+info: 2024-06-02T08:53:07.363Z TenantController {/tenant}: }
+info: 2024-06-02T08:53:07.368Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:53:07.368Z EmployeeController {/employee}: }
+info: 2024-06-02T08:53:07.369Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:53:07.370Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:53:07.371Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:53:07.372Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:53:07.379Z Nest application successfully started }
+info: 2024-06-02T08:53:09.943Z TenantController {/tenant}: }
+info: 2024-06-02T08:53:09.947Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:53:09.948Z EmployeeController {/employee}: }
+info: 2024-06-02T08:53:09.948Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:53:09.949Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:53:09.950Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:53:09.950Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:53:09.963Z Nest application successfully started }
+info: 2024-06-02T08:53:13.266Z TenantController {/tenant}: }
+info: 2024-06-02T08:53:13.274Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:53:13.275Z EmployeeController {/employee}: }
+info: 2024-06-02T08:53:13.276Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:53:13.277Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:53:13.278Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:53:13.278Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:53:13.286Z Nest application successfully started }
+info: 2024-06-02T08:53:16.553Z TenantController {/tenant}: }
+info: 2024-06-02T08:53:16.565Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:53:16.565Z EmployeeController {/employee}: }
+info: 2024-06-02T08:53:16.567Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:53:16.569Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:53:16.571Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:53:16.572Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:53:16.586Z Nest application successfully started }
+info: 2024-06-02T08:58:57.987Z TenantController {/tenant}: }
+info: 2024-06-02T08:58:57.991Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:58:57.991Z EmployeeController {/employee}: }
+info: 2024-06-02T08:58:57.992Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:58:57.992Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:58:57.993Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:58:57.995Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:58:58.001Z Nest application successfully started }
+info: 2024-06-02T08:59:03.385Z TenantController {/tenant}: }
+info: 2024-06-02T08:59:03.388Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:59:03.388Z EmployeeController {/employee}: }
+info: 2024-06-02T08:59:03.389Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:59:03.389Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:59:03.390Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:59:03.391Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:59:03.397Z Nest application successfully started }
+info: 2024-06-02T08:59:05.901Z TenantController {/tenant}: }
+info: 2024-06-02T08:59:05.904Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:59:05.904Z EmployeeController {/employee}: }
+info: 2024-06-02T08:59:05.905Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:59:05.905Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:59:05.906Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:59:05.907Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:59:05.916Z Nest application successfully started }
+info: 2024-06-02T08:59:08.651Z TenantController {/tenant}: }
+info: 2024-06-02T08:59:08.654Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T08:59:08.654Z EmployeeController {/employee}: }
+info: 2024-06-02T08:59:08.654Z Mapped {/employee, POST} route }
+info: 2024-06-02T08:59:08.655Z Mapped {/employee, GET} route }
+info: 2024-06-02T08:59:08.655Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T08:59:08.656Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T08:59:08.662Z Nest application successfully started }
+info: 2024-06-02T09:00:02.070Z TenantController {/tenant}: }
+info: 2024-06-02T09:00:02.073Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:00:02.073Z EmployeeController {/employee}: }
+info: 2024-06-02T09:00:02.074Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:00:02.075Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:00:02.075Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:00:02.076Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:00:02.081Z Nest application successfully started }
+info: 2024-06-02T09:00:09.602Z TenantController {/tenant}: }
+info: 2024-06-02T09:00:09.606Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:00:09.606Z EmployeeController {/employee}: }
+info: 2024-06-02T09:00:09.606Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:00:09.607Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:00:09.608Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:00:09.608Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:00:09.615Z Nest application successfully started }
+info: 2024-06-02T09:00:28.325Z TenantController {/tenant}: }
+info: 2024-06-02T09:00:28.331Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:00:28.331Z EmployeeController {/employee}: }
+info: 2024-06-02T09:00:28.332Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:00:28.332Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:00:28.333Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:00:28.334Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:00:28.340Z Nest application successfully started }
+info: 2024-06-02T09:01:11.397Z TenantController {/tenant}: }
+info: 2024-06-02T09:01:11.402Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:01:11.402Z EmployeeController {/employee}: }
+info: 2024-06-02T09:01:11.403Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:01:11.403Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:01:11.404Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:01:11.405Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:01:11.411Z Nest application successfully started }
+info: 2024-06-02T09:01:18.835Z TenantController {/tenant}: }
+info: 2024-06-02T09:01:18.839Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:01:18.839Z EmployeeController {/employee}: }
+info: 2024-06-02T09:01:18.840Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:01:18.840Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:01:18.841Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:01:18.841Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:01:18.847Z Nest application successfully started }
+info: 2024-06-02T09:01:26.328Z TenantController {/tenant}: }
+info: 2024-06-02T09:01:26.338Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:01:26.338Z EmployeeController {/employee}: }
+info: 2024-06-02T09:01:26.341Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:01:26.343Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:01:26.344Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:01:26.346Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:01:26.359Z Nest application successfully started }
+info: 2024-06-02T09:05:31.784Z TenantController {/tenant}: }
+info: 2024-06-02T09:05:31.790Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:05:31.790Z EmployeeController {/employee}: }
+info: 2024-06-02T09:05:31.791Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:05:31.793Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:05:31.794Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:05:31.794Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:05:31.799Z Nest application successfully started }
+info: 2024-06-02T09:06:53.416Z TenantController {/tenant}: }
+info: 2024-06-02T09:06:53.428Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:06:53.429Z EmployeeController {/employee}: }
+info: 2024-06-02T09:06:53.430Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:06:53.431Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:06:53.432Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:06:53.433Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:06:53.447Z Nest application successfully started }
+info: 2024-06-02T09:07:02.026Z TenantController {/tenant}: }
+info: 2024-06-02T09:07:02.029Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:07:02.030Z EmployeeController {/employee}: }
+info: 2024-06-02T09:07:02.031Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:07:02.032Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:07:02.034Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:07:02.035Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:07:02.044Z Nest application successfully started }
+info: 2024-06-02T09:07:04.258Z TenantController {/tenant}: }
+info: 2024-06-02T09:07:04.262Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:07:04.263Z EmployeeController {/employee}: }
+info: 2024-06-02T09:07:04.263Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:07:04.264Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:07:04.264Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:07:04.265Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:07:04.275Z Nest application successfully started }
+info: 2024-06-02T09:07:09.231Z TenantController {/tenant}: }
+info: 2024-06-02T09:07:09.236Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:07:09.236Z EmployeeController {/employee}: }
+info: 2024-06-02T09:07:09.237Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:07:09.238Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:07:09.239Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:07:09.239Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:07:09.245Z Nest application successfully started }
+info: 2024-06-02T09:07:12.858Z TenantController {/tenant}: }
+info: 2024-06-02T09:07:12.862Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:07:12.862Z EmployeeController {/employee}: }
+info: 2024-06-02T09:07:12.863Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:07:12.863Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:07:12.864Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:07:12.865Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:07:12.872Z Nest application successfully started }
+info: 2024-06-02T09:07:53.333Z TenantController {/tenant}: }
+info: 2024-06-02T09:07:53.342Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:07:53.343Z EmployeeController {/employee}: }
+info: 2024-06-02T09:07:53.344Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:07:53.345Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:07:53.346Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:07:53.346Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:07:53.354Z Nest application successfully started }
+info: 2024-06-02T09:07:59.130Z TenantController {/tenant}: }
+info: 2024-06-02T09:07:59.136Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:07:59.136Z EmployeeController {/employee}: }
+info: 2024-06-02T09:07:59.137Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:07:59.138Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:07:59.139Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:07:59.139Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:07:59.144Z Nest application successfully started }
+info: 2024-06-02T09:08:04.028Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:04.032Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:04.032Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:04.033Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:04.034Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:04.035Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:04.036Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:04.043Z Nest application successfully started }
+info: 2024-06-02T09:08:09.080Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:09.083Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:09.083Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:09.084Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:09.086Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:09.087Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:09.087Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:09.092Z Nest application successfully started }
+info: 2024-06-02T09:08:14.046Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:14.050Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:14.050Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:14.051Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:14.052Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:14.053Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:14.054Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:14.063Z Nest application successfully started }
+info: 2024-06-02T09:08:17.608Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:17.612Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:17.612Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:17.613Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:17.614Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:17.615Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:17.616Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:17.627Z Nest application successfully started }
+info: 2024-06-02T09:08:20.510Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:20.520Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:20.520Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:20.523Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:20.524Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:20.526Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:20.528Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:20.545Z Nest application successfully started }
+info: 2024-06-02T09:08:23.567Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:23.571Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:23.571Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:23.572Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:23.572Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:23.573Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:23.573Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:23.579Z Nest application successfully started }
+info: 2024-06-02T09:08:25.991Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:25.997Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:25.998Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:25.999Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:25.999Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:26.001Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:26.003Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:26.013Z Nest application successfully started }
+info: 2024-06-02T09:08:28.037Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:28.042Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:28.042Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:28.043Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:28.043Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:28.044Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:28.045Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:28.052Z Nest application successfully started }
+info: 2024-06-02T09:08:32.552Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:32.556Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:32.557Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:32.557Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:32.558Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:32.558Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:32.558Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:32.563Z Nest application successfully started }
+info: 2024-06-02T09:08:37.043Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:37.046Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:37.047Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:37.047Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:37.048Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:37.048Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:37.049Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:37.058Z Nest application successfully started }
+info: 2024-06-02T09:08:40.038Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:40.043Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:40.044Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:40.044Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:40.045Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:40.046Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:40.047Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:40.053Z Nest application successfully started }
+info: 2024-06-02T09:08:50.564Z TenantController {/tenant}: }
+info: 2024-06-02T09:08:50.570Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:08:50.571Z EmployeeController {/employee}: }
+info: 2024-06-02T09:08:50.572Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:08:50.573Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:08:50.574Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:08:50.574Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:08:50.588Z Nest application successfully started }
+info: 2024-06-02T09:12:09.380Z TenantController {/tenant}: }
+info: 2024-06-02T09:12:09.386Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:12:09.387Z EmployeeController {/employee}: }
+info: 2024-06-02T09:12:09.388Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:12:09.389Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:12:09.390Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:12:09.390Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:12:09.397Z Nest application successfully started }
+info: 2024-06-02T09:12:12.379Z TenantController {/tenant}: }
+info: 2024-06-02T09:12:12.392Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:12:12.392Z EmployeeController {/employee}: }
+info: 2024-06-02T09:12:12.396Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:12:12.398Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:12:12.400Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:12:12.402Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:12:12.419Z Nest application successfully started }
+info: 2024-06-02T09:13:11.402Z TenantController {/tenant}: }
+info: 2024-06-02T09:13:11.408Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:13:11.409Z EmployeeController {/employee}: }
+info: 2024-06-02T09:13:11.411Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:13:11.413Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:13:11.415Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:13:11.416Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:13:11.435Z Nest application successfully started }
+info: 2024-06-02T09:13:13.670Z TenantController {/tenant}: }
+info: 2024-06-02T09:13:13.674Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:13:13.675Z EmployeeController {/employee}: }
+info: 2024-06-02T09:13:13.676Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:13:13.677Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:13:13.677Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:13:13.678Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:13:13.684Z Nest application successfully started }
+info: 2024-06-02T09:13:22.901Z TenantController {/tenant}: }
+info: 2024-06-02T09:13:22.907Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:13:22.907Z EmployeeController {/employee}: }
+info: 2024-06-02T09:13:22.908Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:13:22.908Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:13:22.909Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:13:22.910Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:13:22.915Z Nest application successfully started }
+info: 2024-06-02T09:13:24.968Z TenantController {/tenant}: }
+info: 2024-06-02T09:13:24.972Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:13:24.973Z EmployeeController {/employee}: }
+info: 2024-06-02T09:13:24.974Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:13:24.974Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:13:24.975Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:13:24.975Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:13:24.981Z Nest application successfully started }
+info: 2024-06-02T09:13:27.750Z TenantController {/tenant}: }
+info: 2024-06-02T09:13:27.754Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:13:27.755Z EmployeeController {/employee}: }
+info: 2024-06-02T09:13:27.756Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:13:27.757Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:13:27.758Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:13:27.759Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:13:27.764Z Nest application successfully started }
+info: 2024-06-02T09:14:02.073Z TenantController {/tenant}: }
+info: 2024-06-02T09:14:02.077Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:14:02.077Z EmployeeController {/employee}: }
+info: 2024-06-02T09:14:02.078Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:14:02.078Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:14:02.079Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:14:02.079Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:14:02.087Z Nest application successfully started }
+info: 2024-06-02T09:14:28.438Z TenantController {/tenant}: }
+info: 2024-06-02T09:14:28.445Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:14:28.446Z EmployeeController {/employee}: }
+info: 2024-06-02T09:14:28.446Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:14:28.449Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:14:28.450Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:14:28.452Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:14:28.460Z Nest application successfully started }
+info: 2024-06-02T09:14:40.637Z TenantController {/tenant}: }
+info: 2024-06-02T09:14:40.641Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:14:40.642Z EmployeeController {/employee}: }
+info: 2024-06-02T09:14:40.642Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:14:40.643Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:14:40.643Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:14:40.644Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:14:40.650Z Nest application successfully started }
+info: 2024-06-02T09:15:53.621Z TenantController {/tenant}: }
+info: 2024-06-02T09:15:53.629Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:15:53.629Z EmployeeController {/employee}: }
+info: 2024-06-02T09:15:53.631Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:15:53.633Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:15:53.634Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:15:53.636Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:15:53.649Z Nest application successfully started }
+info: 2024-06-02T09:15:54.764Z TenantController {/tenant}: }
+info: 2024-06-02T09:15:54.771Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:15:54.772Z EmployeeController {/employee}: }
+info: 2024-06-02T09:15:54.774Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:15:54.774Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:15:54.776Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:15:54.777Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:15:54.787Z Nest application successfully started }
+info: 2024-06-02T09:17:05.141Z TenantController {/tenant}: }
+info: 2024-06-02T09:17:05.145Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:17:05.145Z EmployeeController {/employee}: }
+info: 2024-06-02T09:17:05.146Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:17:05.148Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:17:05.149Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:17:05.149Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:17:05.158Z Nest application successfully started }
+info: 2024-06-02T09:18:35.068Z TenantController {/tenant}: }
+info: 2024-06-02T09:18:35.072Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:18:35.073Z EmployeeController {/employee}: }
+info: 2024-06-02T09:18:35.073Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:18:35.074Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:18:35.075Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:18:35.075Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:18:35.083Z Nest application successfully started }
+info: 2024-06-02T09:20:51.557Z TenantController {/tenant}: }
+info: 2024-06-02T09:20:51.561Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:20:51.561Z EmployeeController {/employee}: }
+info: 2024-06-02T09:20:51.562Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:20:51.563Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:20:51.564Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:20:51.565Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:20:51.570Z Nest application successfully started }
+info: 2024-06-02T09:20:55.519Z TenantController {/tenant}: }
+info: 2024-06-02T09:20:55.523Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:20:55.524Z EmployeeController {/employee}: }
+info: 2024-06-02T09:20:55.524Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:20:55.525Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:20:55.525Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:20:55.525Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:20:55.531Z Nest application successfully started }
+info: 2024-06-02T09:23:08.568Z TenantController {/tenant}: }
+info: 2024-06-02T09:23:08.572Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:23:08.573Z EmployeeController {/employee}: }
+info: 2024-06-02T09:23:08.573Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:23:08.574Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:23:08.574Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:23:08.574Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:23:08.582Z Nest application successfully started }
+info: 2024-06-02T09:23:12.346Z TenantController {/tenant}: }
+info: 2024-06-02T09:23:12.352Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:23:12.352Z EmployeeController {/employee}: }
+info: 2024-06-02T09:23:12.352Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:23:12.353Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:23:12.353Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:23:12.354Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:23:12.358Z Nest application successfully started }
+info: 2024-06-02T09:23:14.271Z TenantController {/tenant}: }
+info: 2024-06-02T09:23:14.275Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:23:14.276Z EmployeeController {/employee}: }
+info: 2024-06-02T09:23:14.276Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:23:14.276Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:23:14.277Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:23:14.278Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:23:14.285Z Nest application successfully started }
+info: 2024-06-02T09:23:18.945Z TenantController {/tenant}: }
+info: 2024-06-02T09:23:18.950Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:23:18.950Z EmployeeController {/employee}: }
+info: 2024-06-02T09:23:18.951Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:23:18.951Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:23:18.952Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:23:18.952Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:23:18.956Z Nest application successfully started }
+info: 2024-06-02T09:23:46.572Z TenantController {/tenant}: }
+info: 2024-06-02T09:23:46.577Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:23:46.577Z EmployeeController {/employee}: }
+info: 2024-06-02T09:23:46.580Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:23:46.584Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:23:46.587Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:23:46.588Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:23:46.595Z Nest application successfully started }
+info: 2024-06-02T09:23:55.396Z TenantController {/tenant}: }
+info: 2024-06-02T09:23:55.401Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:23:55.401Z EmployeeController {/employee}: }
+info: 2024-06-02T09:23:55.402Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:23:55.403Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:23:55.403Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:23:55.404Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:23:55.411Z Nest application successfully started }
+info: 2024-06-02T09:24:03.962Z TenantController {/tenant}: }
+info: 2024-06-02T09:24:03.966Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:24:03.967Z EmployeeController {/employee}: }
+info: 2024-06-02T09:24:03.968Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:24:03.969Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:24:03.969Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:24:03.970Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:24:03.975Z Nest application successfully started }
+info: 2024-06-02T09:24:08.297Z TenantController {/tenant}: }
+info: 2024-06-02T09:24:08.303Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:24:08.303Z EmployeeController {/employee}: }
+info: 2024-06-02T09:24:08.304Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:24:08.304Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:24:08.305Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:24:08.306Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:24:08.312Z Nest application successfully started }
+info: 2024-06-02T09:28:18.047Z TenantController {/tenant}: }
+info: 2024-06-02T09:28:18.054Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:28:18.054Z EmployeeController {/employee}: }
+info: 2024-06-02T09:28:18.054Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:28:18.055Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:28:18.055Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:28:18.055Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:28:18.059Z Nest application successfully started }
+info: 2024-06-02T09:28:40.256Z TenantController {/tenant}: }
+info: 2024-06-02T09:28:40.260Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:28:40.260Z EmployeeController {/employee}: }
+info: 2024-06-02T09:28:40.261Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:28:40.262Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:28:40.264Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:28:40.264Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:28:40.269Z Nest application successfully started }
+info: 2024-06-02T09:34:21.582Z TenantController {/tenant}: }
+info: 2024-06-02T09:34:21.589Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:34:21.589Z EmployeeController {/employee}: }
+info: 2024-06-02T09:34:21.590Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:34:21.591Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:34:21.592Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:34:21.593Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:34:21.598Z Nest application successfully started }
+info: 2024-06-02T09:34:34.723Z TenantController {/tenant}: }
+info: 2024-06-02T09:34:34.728Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:34:34.728Z EmployeeController {/employee}: }
+info: 2024-06-02T09:34:34.729Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:34:34.730Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:34:34.731Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:34:34.731Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:34:34.735Z Nest application successfully started }
+info: 2024-06-02T09:34:40.134Z TenantController {/tenant}: }
+info: 2024-06-02T09:34:40.140Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:34:40.140Z EmployeeController {/employee}: }
+info: 2024-06-02T09:34:40.141Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:34:40.142Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:34:40.143Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:34:40.143Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:34:40.148Z Nest application successfully started }
+info: 2024-06-02T09:34:45.118Z TenantController {/tenant}: }
+info: 2024-06-02T09:34:45.123Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:34:45.123Z EmployeeController {/employee}: }
+info: 2024-06-02T09:34:45.124Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:34:45.125Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:34:45.126Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:34:45.126Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:34:45.132Z Nest application successfully started }
+info: 2024-06-02T09:35:08.901Z TenantController {/tenant}: }
+info: 2024-06-02T09:35:08.907Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:35:08.907Z EmployeeController {/employee}: }
+info: 2024-06-02T09:35:08.908Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:35:08.909Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:35:08.910Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:35:08.911Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:35:08.915Z Nest application successfully started }
+info: 2024-06-02T09:49:06.801Z TenantController {/tenant}: }
+info: 2024-06-02T09:49:06.807Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:49:06.808Z EmployeeController {/employee}: }
+info: 2024-06-02T09:49:06.809Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:49:06.810Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:49:06.810Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:49:06.811Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:49:06.818Z Nest application successfully started }
+info: 2024-06-02T09:49:59.767Z TenantController {/tenant}: }
+info: 2024-06-02T09:49:59.778Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:49:59.778Z EmployeeController {/employee}: }
+info: 2024-06-02T09:49:59.780Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:49:59.782Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:49:59.783Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:49:59.783Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:49:59.790Z Nest application successfully started }
+info: 2024-06-02T09:50:02.167Z TenantController {/tenant}: }
+info: 2024-06-02T09:50:02.172Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:50:02.172Z EmployeeController {/employee}: }
+info: 2024-06-02T09:50:02.173Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:50:02.174Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:50:02.175Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:50:02.176Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:50:02.188Z Nest application successfully started }
+info: 2024-06-02T09:50:06.090Z TenantController {/tenant}: }
+info: 2024-06-02T09:50:06.094Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:50:06.094Z EmployeeController {/employee}: }
+info: 2024-06-02T09:50:06.095Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:50:06.095Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:50:06.096Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:50:06.097Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:50:06.105Z Nest application successfully started }
+info: 2024-06-02T09:50:10.050Z TenantController {/tenant}: }
+info: 2024-06-02T09:50:10.055Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:50:10.055Z EmployeeController {/employee}: }
+info: 2024-06-02T09:50:10.056Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:50:10.056Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:50:10.057Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:50:10.057Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:50:10.061Z Nest application successfully started }
+info: 2024-06-02T09:52:11.276Z TenantController {/tenant}: }
+info: 2024-06-02T09:52:11.281Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:52:11.281Z EmployeeController {/employee}: }
+info: 2024-06-02T09:52:11.282Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:52:11.283Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:52:11.285Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:52:11.286Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:52:11.291Z Nest application successfully started }
+info: 2024-06-02T09:52:32.348Z TenantController {/tenant}: }
+info: 2024-06-02T09:52:32.362Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:52:32.362Z EmployeeController {/employee}: }
+info: 2024-06-02T09:52:32.364Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:52:32.367Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:52:32.370Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:52:32.372Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:52:32.389Z Nest application successfully started }
+info: 2024-06-02T09:52:55.369Z TenantController {/tenant}: }
+info: 2024-06-02T09:52:55.374Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:52:55.374Z EmployeeController {/employee}: }
+info: 2024-06-02T09:52:55.375Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:52:55.375Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:52:55.376Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:52:55.376Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:52:55.387Z Nest application successfully started }
+info: 2024-06-02T09:53:00.358Z TenantController {/tenant}: }
+info: 2024-06-02T09:53:00.365Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:53:00.365Z EmployeeController {/employee}: }
+info: 2024-06-02T09:53:00.366Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:53:00.367Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:53:00.367Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:53:00.368Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:53:00.374Z Nest application successfully started }
+info: 2024-06-02T09:56:07.075Z TenantController {/tenant}: }
+info: 2024-06-02T09:56:07.079Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:56:07.079Z EmployeeController {/employee}: }
+info: 2024-06-02T09:56:07.079Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:56:07.080Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:56:07.081Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:56:07.081Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:56:07.088Z Nest application successfully started }
+info: 2024-06-02T09:56:41.303Z TenantController {/tenant}: }
+info: 2024-06-02T09:56:41.308Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:56:41.308Z EmployeeController {/employee}: }
+info: 2024-06-02T09:56:41.308Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:56:41.309Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:56:41.310Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:56:41.310Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:56:41.314Z Nest application successfully started }
+info: 2024-06-02T09:57:49.155Z TenantController {/tenant}: }
+info: 2024-06-02T09:57:49.159Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:57:49.159Z EmployeeController {/employee}: }
+info: 2024-06-02T09:57:49.159Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:57:49.160Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:57:49.160Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:57:49.161Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:57:49.165Z Nest application successfully started }
+info: 2024-06-02T09:57:54.473Z TenantController {/tenant}: }
+info: 2024-06-02T09:57:54.479Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:57:54.480Z EmployeeController {/employee}: }
+info: 2024-06-02T09:57:54.482Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:57:54.483Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:57:54.485Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:57:54.486Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:57:54.500Z Nest application successfully started }
+info: 2024-06-02T09:57:57.543Z TenantController {/tenant}: }
+info: 2024-06-02T09:57:57.546Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:57:57.546Z EmployeeController {/employee}: }
+info: 2024-06-02T09:57:57.547Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:57:57.547Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:57:57.548Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:57:57.548Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:57:57.557Z Nest application successfully started }
+info: 2024-06-02T09:58:05.003Z TenantController {/tenant}: }
+info: 2024-06-02T09:58:05.008Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:58:05.008Z EmployeeController {/employee}: }
+info: 2024-06-02T09:58:05.008Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:58:05.009Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:58:05.010Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:58:05.010Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:58:05.015Z Nest application successfully started }
+info: 2024-06-02T09:58:08.953Z TenantController {/tenant}: }
+info: 2024-06-02T09:58:08.959Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:58:08.959Z EmployeeController {/employee}: }
+info: 2024-06-02T09:58:08.960Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:58:08.960Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:58:08.961Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:58:08.961Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:58:08.967Z Nest application successfully started }
+info: 2024-06-02T09:58:13.086Z TenantController {/tenant}: }
+info: 2024-06-02T09:58:13.092Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T09:58:13.092Z EmployeeController {/employee}: }
+info: 2024-06-02T09:58:13.093Z Mapped {/employee, POST} route }
+info: 2024-06-02T09:58:13.094Z Mapped {/employee, GET} route }
+info: 2024-06-02T09:58:13.094Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T09:58:13.094Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T09:58:13.100Z Nest application successfully started }
+info: 2024-06-02T10:16:55.663Z TenantController {/tenant}: }
+info: 2024-06-02T10:16:55.668Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:16:55.668Z EmployeeController {/employee}: }
+info: 2024-06-02T10:16:55.668Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:16:55.669Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:16:55.669Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:16:55.670Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:16:55.675Z Nest application successfully started }
+info: 2024-06-02T10:21:32.539Z TenantController {/tenant}: }
+info: 2024-06-02T10:21:32.543Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:21:32.544Z EmployeeController {/employee}: }
+info: 2024-06-02T10:21:32.544Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:21:32.545Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:21:32.545Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:21:32.546Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:21:32.552Z Nest application successfully started }
+info: 2024-06-02T10:22:48.064Z TenantController {/tenant}: }
+info: 2024-06-02T10:22:48.067Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:22:48.067Z EmployeeController {/employee}: }
+info: 2024-06-02T10:22:48.068Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:22:48.069Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:22:48.070Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:22:48.070Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:22:48.075Z Nest application successfully started }
+info: 2024-06-02T10:22:58.065Z TenantController {/tenant}: }
+info: 2024-06-02T10:22:58.069Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:22:58.069Z EmployeeController {/employee}: }
+info: 2024-06-02T10:22:58.069Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:22:58.070Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:22:58.070Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:22:58.071Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:22:58.078Z Nest application successfully started }
+info: 2024-06-02T10:24:26.747Z TenantController {/tenant}: }
+info: 2024-06-02T10:24:26.753Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:24:26.754Z EmployeeController {/employee}: }
+info: 2024-06-02T10:24:26.755Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:24:26.756Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:24:26.758Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:24:26.760Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:24:26.770Z Nest application successfully started }
+info: 2024-06-02T10:24:52.118Z TenantController {/tenant}: }
+info: 2024-06-02T10:24:52.121Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:24:52.121Z EmployeeController {/employee}: }
+info: 2024-06-02T10:24:52.122Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:24:52.123Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:24:52.123Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:24:52.124Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:24:52.130Z Nest application successfully started }
+info: 2024-06-02T10:25:01.104Z TenantController {/tenant}: }
+info: 2024-06-02T10:25:01.108Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:25:01.109Z EmployeeController {/employee}: }
+info: 2024-06-02T10:25:01.110Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:25:01.111Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:25:01.112Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:25:01.112Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:25:01.117Z Nest application successfully started }
+info: 2024-06-02T10:36:28.554Z TenantController {/tenant}: }
+info: 2024-06-02T10:36:28.560Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:36:28.560Z EmployeeController {/employee}: }
+info: 2024-06-02T10:36:28.562Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:36:28.563Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:36:28.565Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:36:28.567Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:36:28.579Z Nest application successfully started }
+info: 2024-06-02T10:42:27.395Z TenantController {/tenant}: }
+info: 2024-06-02T10:42:27.400Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:42:27.401Z EmployeeController {/employee}: }
+info: 2024-06-02T10:42:27.402Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:42:27.402Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:42:27.403Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:42:27.404Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:42:27.409Z Nest application successfully started }
+info: 2024-06-02T10:42:35.987Z TenantController {/tenant}: }
+info: 2024-06-02T10:42:35.990Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:42:35.990Z EmployeeController {/employee}: }
+info: 2024-06-02T10:42:35.991Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:42:35.992Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:42:35.992Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:42:35.993Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:42:35.998Z Nest application successfully started }
+info: 2024-06-02T10:42:37.699Z TenantController {/tenant}: }
+info: 2024-06-02T10:42:37.703Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:42:37.703Z EmployeeController {/employee}: }
+info: 2024-06-02T10:42:37.703Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:42:37.704Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:42:37.705Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:42:37.706Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:42:37.712Z Nest application successfully started }
+info: 2024-06-02T10:43:40.500Z TenantController {/tenant}: }
+info: 2024-06-02T10:43:40.510Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:43:40.511Z EmployeeController {/employee}: }
+info: 2024-06-02T10:43:40.512Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:43:40.513Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:43:40.514Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:43:40.516Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:43:40.526Z Nest application successfully started }
+info: 2024-06-02T10:44:17.175Z TenantController {/tenant}: }
+info: 2024-06-02T10:44:17.181Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:44:17.182Z EmployeeController {/employee}: }
+info: 2024-06-02T10:44:17.182Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:44:17.183Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:44:17.184Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:44:17.184Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:44:17.191Z Nest application successfully started }
+info: 2024-06-02T10:47:22.566Z TenantController {/tenant}: }
+info: 2024-06-02T10:47:22.570Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:47:22.570Z EmployeeController {/employee}: }
+info: 2024-06-02T10:47:22.571Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:47:22.572Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:47:22.573Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:47:22.573Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:47:22.583Z Nest application successfully started }
+info: 2024-06-02T10:47:44.536Z TenantController {/tenant}: }
+info: 2024-06-02T10:47:44.540Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:47:44.540Z EmployeeController {/employee}: }
+info: 2024-06-02T10:47:44.540Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:47:44.541Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:47:44.542Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:47:44.543Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:47:44.549Z Nest application successfully started }
+info: 2024-06-02T10:52:00.154Z TenantController {/tenant}: }
+info: 2024-06-02T10:52:00.158Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:52:00.158Z EmployeeController {/employee}: }
+info: 2024-06-02T10:52:00.159Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:52:00.159Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:52:00.160Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:52:00.160Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:52:00.165Z Nest application successfully started }
+info: 2024-06-02T10:52:29.758Z TenantController {/tenant}: }
+info: 2024-06-02T10:52:29.765Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:52:29.765Z EmployeeController {/employee}: }
+info: 2024-06-02T10:52:29.766Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:52:29.767Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:52:29.768Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:52:29.769Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:52:29.775Z Nest application successfully started }
+info: 2024-06-02T10:54:20.783Z TenantController {/tenant}: }
+info: 2024-06-02T10:54:20.789Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:54:20.789Z EmployeeController {/employee}: }
+info: 2024-06-02T10:54:20.790Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:54:20.790Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:54:20.791Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:54:20.791Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:54:20.796Z Nest application successfully started }
+info: 2024-06-02T10:54:27.104Z TenantController {/tenant}: }
+info: 2024-06-02T10:54:27.109Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:54:27.110Z EmployeeController {/employee}: }
+info: 2024-06-02T10:54:27.111Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:54:27.111Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:54:27.112Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:54:27.114Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:54:27.125Z Nest application successfully started }
+info: 2024-06-02T10:54:30.244Z TenantController {/tenant}: }
+info: 2024-06-02T10:54:30.247Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:54:30.248Z EmployeeController {/employee}: }
+info: 2024-06-02T10:54:30.248Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:54:30.249Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:54:30.249Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:54:30.250Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:54:30.257Z Nest application successfully started }
+info: 2024-06-02T10:54:31.684Z TenantController {/tenant}: }
+info: 2024-06-02T10:54:31.690Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:54:31.690Z EmployeeController {/employee}: }
+info: 2024-06-02T10:54:31.691Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:54:31.691Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:54:31.692Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:54:31.692Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:54:31.698Z Nest application successfully started }
+info: 2024-06-02T10:54:40.198Z TenantController {/tenant}: }
+info: 2024-06-02T10:54:40.202Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:54:40.202Z EmployeeController {/employee}: }
+info: 2024-06-02T10:54:40.203Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:54:40.203Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:54:40.204Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:54:40.204Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:54:40.208Z Nest application successfully started }
+info: 2024-06-02T10:54:44.907Z TenantController {/tenant}: }
+info: 2024-06-02T10:54:44.911Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:54:44.911Z EmployeeController {/employee}: }
+info: 2024-06-02T10:54:44.912Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:54:44.914Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:54:44.914Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:54:44.915Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:54:44.920Z Nest application successfully started }
+info: 2024-06-02T10:54:48.948Z TenantController {/tenant}: }
+info: 2024-06-02T10:54:48.952Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:54:48.952Z EmployeeController {/employee}: }
+info: 2024-06-02T10:54:48.953Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:54:48.954Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:54:48.954Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:54:48.955Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:54:48.959Z Nest application successfully started }
+info: 2024-06-02T10:54:55.960Z TenantController {/tenant}: }
+info: 2024-06-02T10:54:55.964Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:54:55.964Z EmployeeController {/employee}: }
+info: 2024-06-02T10:54:55.965Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:54:55.965Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:54:55.966Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:54:55.967Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:54:55.972Z Nest application successfully started }
+info: 2024-06-02T10:55:06.598Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:06.601Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:06.601Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:06.602Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:06.602Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:06.603Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:06.603Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:06.608Z Nest application successfully started }
+info: 2024-06-02T10:55:08.586Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:08.591Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:08.591Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:08.591Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:08.592Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:08.592Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:08.593Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:08.597Z Nest application successfully started }
+info: 2024-06-02T10:55:11.068Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:11.072Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:11.073Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:11.073Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:11.074Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:11.075Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:11.076Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:11.081Z Nest application successfully started }
+info: 2024-06-02T10:55:12.643Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:12.648Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:12.648Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:12.649Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:12.649Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:12.650Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:12.651Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:12.655Z Nest application successfully started }
+info: 2024-06-02T10:55:22.028Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:22.036Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:22.036Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:22.037Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:22.038Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:22.038Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:22.039Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:22.052Z Nest application successfully started }
+info: 2024-06-02T10:55:25.556Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:25.559Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:25.559Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:25.560Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:25.560Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:25.561Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:25.562Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:25.567Z Nest application successfully started }
+info: 2024-06-02T10:55:34.625Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:34.629Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:34.630Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:34.631Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:34.632Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:34.633Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:34.634Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:34.643Z Nest application successfully started }
+info: 2024-06-02T10:55:40.809Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:40.815Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:40.815Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:40.817Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:40.818Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:40.818Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:40.819Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:40.824Z Nest application successfully started }
+info: 2024-06-02T10:55:42.870Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:42.874Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:42.875Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:42.876Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:42.876Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:42.877Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:42.877Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:42.881Z Nest application successfully started }
+info: 2024-06-02T10:55:45.343Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:45.348Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:45.348Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:45.350Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:45.350Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:45.351Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:45.351Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:45.357Z Nest application successfully started }
+info: 2024-06-02T10:55:53.178Z TenantController {/tenant}: }
+info: 2024-06-02T10:55:53.182Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:55:53.182Z EmployeeController {/employee}: }
+info: 2024-06-02T10:55:53.183Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:55:53.183Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:55:53.184Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:55:53.184Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:55:53.188Z Nest application successfully started }
+info: 2024-06-02T10:56:04.240Z TenantController {/tenant}: }
+info: 2024-06-02T10:56:04.243Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:56:04.243Z EmployeeController {/employee}: }
+info: 2024-06-02T10:56:04.244Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:56:04.245Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:56:04.245Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:56:04.246Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:56:04.252Z Nest application successfully started }
+info: 2024-06-02T10:56:07.287Z TenantController {/tenant}: }
+info: 2024-06-02T10:56:07.290Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:56:07.291Z EmployeeController {/employee}: }
+info: 2024-06-02T10:56:07.291Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:56:07.292Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:56:07.292Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:56:07.293Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:56:07.303Z Nest application successfully started }
+info: 2024-06-02T10:56:10.970Z TenantController {/tenant}: }
+info: 2024-06-02T10:56:10.972Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:56:10.973Z EmployeeController {/employee}: }
+info: 2024-06-02T10:56:10.973Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:56:10.974Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:56:10.974Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:56:10.975Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:56:10.979Z Nest application successfully started }
+info: 2024-06-02T10:56:15.727Z TenantController {/tenant}: }
+info: 2024-06-02T10:56:15.731Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:56:15.731Z EmployeeController {/employee}: }
+info: 2024-06-02T10:56:15.731Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:56:15.732Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:56:15.733Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:56:15.733Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:56:15.739Z Nest application successfully started }
+info: 2024-06-02T10:56:20.266Z TenantController {/tenant}: }
+info: 2024-06-02T10:56:20.272Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:56:20.272Z EmployeeController {/employee}: }
+info: 2024-06-02T10:56:20.273Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:56:20.274Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:56:20.275Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:56:20.276Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:56:20.280Z Nest application successfully started }
+info: 2024-06-02T10:56:26.775Z TenantController {/tenant}: }
+info: 2024-06-02T10:56:26.780Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T10:56:26.781Z EmployeeController {/employee}: }
+info: 2024-06-02T10:56:26.781Z Mapped {/employee, POST} route }
+info: 2024-06-02T10:56:26.782Z Mapped {/employee, GET} route }
+info: 2024-06-02T10:56:26.783Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T10:56:26.783Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T10:56:26.790Z Nest application successfully started }
+info: 2024-06-02T11:08:18.251Z TenantController {/tenant}: }
+info: 2024-06-02T11:08:18.254Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:08:18.254Z EmployeeController {/employee}: }
+info: 2024-06-02T11:08:18.255Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:08:18.255Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:08:18.256Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:08:18.256Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:08:18.259Z Nest application successfully started }
+info: 2024-06-02T11:08:25.805Z TenantController {/tenant}: }
+info: 2024-06-02T11:08:25.810Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:08:25.811Z EmployeeController {/employee}: }
+info: 2024-06-02T11:08:25.813Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:08:25.814Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:08:25.815Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:08:25.816Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:08:25.822Z Nest application successfully started }
+info: 2024-06-02T11:09:15.959Z TenantController {/tenant}: }
+info: 2024-06-02T11:09:15.963Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:09:15.964Z EmployeeController {/employee}: }
+info: 2024-06-02T11:09:15.965Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:09:15.966Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:09:15.967Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:09:15.967Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:09:15.972Z Nest application successfully started }
+info: 2024-06-02T11:09:29.320Z TenantController {/tenant}: }
+info: 2024-06-02T11:09:29.323Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:09:29.323Z EmployeeController {/employee}: }
+info: 2024-06-02T11:09:29.324Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:09:29.324Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:09:29.325Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:09:29.325Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:09:29.330Z Nest application successfully started }
+info: 2024-06-02T11:09:33.428Z TenantController {/tenant}: }
+info: 2024-06-02T11:09:33.434Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:09:33.434Z EmployeeController {/employee}: }
+info: 2024-06-02T11:09:33.435Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:09:33.435Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:09:33.436Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:09:33.436Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:09:33.440Z Nest application successfully started }
+info: 2024-06-02T11:09:42.125Z TenantController {/tenant}: }
+info: 2024-06-02T11:09:42.129Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:09:42.130Z EmployeeController {/employee}: }
+info: 2024-06-02T11:09:42.130Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:09:42.131Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:09:42.132Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:09:42.132Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:09:42.138Z Nest application successfully started }
+info: 2024-06-02T11:10:27.775Z TenantController {/tenant}: }
+info: 2024-06-02T11:10:27.778Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:10:27.779Z EmployeeController {/employee}: }
+info: 2024-06-02T11:10:27.779Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:10:27.780Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:10:27.780Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:10:27.781Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:10:27.786Z Nest application successfully started }
+info: 2024-06-02T11:10:35.366Z TenantController {/tenant}: }
+info: 2024-06-02T11:10:35.369Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:10:35.370Z EmployeeController {/employee}: }
+info: 2024-06-02T11:10:35.371Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:10:35.372Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:10:35.372Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:10:35.372Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:10:35.379Z Nest application successfully started }
+info: 2024-06-02T11:10:38.016Z TenantController {/tenant}: }
+info: 2024-06-02T11:10:38.019Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T11:10:38.020Z EmployeeController {/employee}: }
+info: 2024-06-02T11:10:38.020Z Mapped {/employee, POST} route }
+info: 2024-06-02T11:10:38.022Z Mapped {/employee, GET} route }
+info: 2024-06-02T11:10:38.022Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T11:10:38.023Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T11:10:38.028Z Nest application successfully started }
+info: 2024-06-02T12:30:27.246Z TenantController {/tenant}: }
+info: 2024-06-02T12:30:27.259Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T12:30:27.260Z EmployeeController {/employee}: }
+info: 2024-06-02T12:30:27.263Z Mapped {/employee, POST} route }
+info: 2024-06-02T12:30:27.265Z Mapped {/employee, GET} route }
+info: 2024-06-02T12:30:27.267Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T12:30:27.269Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T12:30:27.281Z Nest application successfully started }
+info: 2024-06-02T14:38:06.979Z TenantController {/tenant}: }
+info: 2024-06-02T14:38:06.981Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:38:06.981Z EmployeeController {/employee}: }
+info: 2024-06-02T14:38:06.982Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:38:06.982Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:38:06.982Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:38:06.983Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:38:06.986Z Nest application successfully started }
+info: 2024-06-02T14:43:47.604Z TenantController {/tenant}: }
+info: 2024-06-02T14:43:47.606Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:43:47.606Z EmployeeController {/employee}: }
+info: 2024-06-02T14:43:47.607Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:43:47.607Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:43:47.607Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:43:47.608Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:43:47.610Z Nest application successfully started }
+info: 2024-06-02T14:44:34.129Z TenantController {/tenant}: }
+info: 2024-06-02T14:44:34.132Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:44:34.132Z EmployeeController {/employee}: }
+info: 2024-06-02T14:44:34.133Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:44:34.133Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:44:34.133Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:44:34.134Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:44:34.136Z Nest application successfully started }
+info: 2024-06-02T14:44:38.119Z TenantController {/tenant}: }
+info: 2024-06-02T14:44:38.121Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:44:38.121Z EmployeeController {/employee}: }
+info: 2024-06-02T14:44:38.122Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:44:38.122Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:44:38.122Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:44:38.123Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:44:38.125Z Nest application successfully started }
+info: 2024-06-02T14:46:01.984Z TenantController {/tenant}: }
+info: 2024-06-02T14:46:01.986Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:46:01.986Z EmployeeController {/employee}: }
+info: 2024-06-02T14:46:01.987Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:46:01.987Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:46:01.988Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:46:01.988Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:46:01.991Z Nest application successfully started }
+info: 2024-06-02T14:46:25.540Z TenantController {/tenant}: }
+info: 2024-06-02T14:46:25.543Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:46:25.543Z EmployeeController {/employee}: }
+info: 2024-06-02T14:46:25.543Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:46:25.544Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:46:25.544Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:46:25.545Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:46:25.547Z Nest application successfully started }
+info: 2024-06-02T14:48:13.138Z TenantController {/tenant}: }
+info: 2024-06-02T14:48:13.141Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:48:13.141Z EmployeeController {/employee}: }
+info: 2024-06-02T14:48:13.142Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:48:13.142Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:48:13.142Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:48:13.143Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:48:13.145Z Nest application successfully started }
+info: 2024-06-02T14:48:42.206Z TenantController {/tenant}: }
+info: 2024-06-02T14:48:42.209Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:48:42.209Z EmployeeController {/employee}: }
+info: 2024-06-02T14:48:42.210Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:48:42.211Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:48:42.211Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:48:42.212Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:48:42.214Z Nest application successfully started }
+info: 2024-06-02T14:50:07.053Z TenantController {/tenant}: }
+info: 2024-06-02T14:50:07.055Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:50:07.056Z EmployeeController {/employee}: }
+info: 2024-06-02T14:50:07.056Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:50:07.056Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:50:07.057Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:50:07.057Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:50:07.060Z Nest application successfully started }
+info: 2024-06-02T14:50:08.942Z TenantController {/tenant}: }
+info: 2024-06-02T14:50:08.944Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:50:08.944Z EmployeeController {/employee}: }
+info: 2024-06-02T14:50:08.945Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:50:08.945Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:50:08.945Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:50:08.946Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:50:08.949Z Nest application successfully started }
+info: 2024-06-02T14:50:14.847Z TenantController {/tenant}: }
+info: 2024-06-02T14:50:14.851Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:50:14.851Z EmployeeController {/employee}: }
+info: 2024-06-02T14:50:14.851Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:50:14.852Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:50:14.852Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:50:14.852Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:50:14.855Z Nest application successfully started }
+info: 2024-06-02T14:50:17.012Z TenantController {/tenant}: }
+info: 2024-06-02T14:50:17.016Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:50:17.016Z EmployeeController {/employee}: }
+info: 2024-06-02T14:50:17.017Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:50:17.018Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:50:17.018Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:50:17.019Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:50:17.022Z Nest application successfully started }
+info: 2024-06-02T14:51:57.731Z TenantController {/tenant}: }
+info: 2024-06-02T14:51:57.733Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:51:57.733Z EmployeeController {/employee}: }
+info: 2024-06-02T14:51:57.734Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:51:57.734Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:51:57.734Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:51:57.735Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:51:57.737Z Nest application successfully started }
+info: 2024-06-02T14:52:03.140Z TenantController {/tenant}: }
+info: 2024-06-02T14:52:03.142Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T14:52:03.142Z EmployeeController {/employee}: }
+info: 2024-06-02T14:52:03.142Z Mapped {/employee, POST} route }
+info: 2024-06-02T14:52:03.143Z Mapped {/employee, GET} route }
+info: 2024-06-02T14:52:03.143Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T14:52:03.143Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T14:52:03.146Z Nest application successfully started }
+info: 2024-06-02T15:04:35.114Z TenantController {/tenant}: }
+info: 2024-06-02T15:04:35.117Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:04:35.117Z EmployeeController {/employee}: }
+info: 2024-06-02T15:04:35.118Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:04:35.118Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:04:35.118Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:04:35.119Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:04:35.122Z Nest application successfully started }
+info: 2024-06-02T15:04:44.804Z TenantController {/tenant}: }
+info: 2024-06-02T15:04:44.807Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:04:44.807Z EmployeeController {/employee}: }
+info: 2024-06-02T15:04:44.808Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:04:44.808Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:04:44.808Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:04:44.809Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:04:44.812Z Nest application successfully started }
+info: 2024-06-02T15:04:46.269Z TenantController {/tenant}: }
+info: 2024-06-02T15:04:46.272Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:04:46.272Z EmployeeController {/employee}: }
+info: 2024-06-02T15:04:46.273Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:04:46.273Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:04:46.273Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:04:46.274Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:04:46.277Z Nest application successfully started }
+info: 2024-06-02T15:04:50.455Z TenantController {/tenant}: }
+info: 2024-06-02T15:04:50.457Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:04:50.458Z EmployeeController {/employee}: }
+info: 2024-06-02T15:04:50.458Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:04:50.458Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:04:50.459Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:04:50.459Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:04:50.462Z Nest application successfully started }
+info: 2024-06-02T15:16:48.691Z TenantController {/tenant}: }
+info: 2024-06-02T15:16:48.694Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:16:48.694Z EmployeeController {/employee}: }
+info: 2024-06-02T15:16:48.694Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:16:48.694Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:16:48.695Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:16:48.695Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:16:48.698Z Nest application successfully started }
+info: 2024-06-02T15:17:01.967Z TenantController {/tenant}: }
+info: 2024-06-02T15:17:01.970Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:17:01.970Z EmployeeController {/employee}: }
+info: 2024-06-02T15:17:01.970Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:17:01.971Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:17:01.971Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:17:01.971Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:17:01.974Z Nest application successfully started }
+info: 2024-06-02T15:21:06.834Z TenantController {/tenant}: }
+info: 2024-06-02T15:21:06.837Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:21:06.837Z EmployeeController {/employee}: }
+info: 2024-06-02T15:21:06.838Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:21:06.838Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:21:06.838Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:21:06.839Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:21:06.842Z Nest application successfully started }
+info: 2024-06-02T15:21:10.619Z TenantController {/tenant}: }
+info: 2024-06-02T15:21:10.621Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:21:10.622Z EmployeeController {/employee}: }
+info: 2024-06-02T15:21:10.622Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:21:10.622Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:21:10.623Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:21:10.623Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:21:10.626Z Nest application successfully started }
+info: 2024-06-02T15:21:15.222Z TenantController {/tenant}: }
+info: 2024-06-02T15:21:15.225Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:21:15.225Z EmployeeController {/employee}: }
+info: 2024-06-02T15:21:15.225Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:21:15.225Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:21:15.226Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:21:15.226Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:21:15.229Z Nest application successfully started }
+info: 2024-06-02T15:22:56.532Z TenantController {/tenant}: }
+info: 2024-06-02T15:22:56.535Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:22:56.535Z EmployeeController {/employee}: }
+info: 2024-06-02T15:22:56.535Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:22:56.536Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:22:56.536Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:22:56.536Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:22:56.539Z Nest application successfully started }
+info: 2024-06-02T15:23:05.008Z TenantController {/tenant}: }
+info: 2024-06-02T15:23:05.010Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:23:05.010Z EmployeeController {/employee}: }
+info: 2024-06-02T15:23:05.011Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:23:05.011Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:23:05.012Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:23:05.012Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:23:05.015Z Nest application successfully started }
+info: 2024-06-02T15:24:54.442Z TenantController {/tenant}: }
+info: 2024-06-02T15:24:54.444Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:24:54.445Z EmployeeController {/employee}: }
+info: 2024-06-02T15:24:54.445Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:24:54.445Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:24:54.446Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:24:54.446Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:24:54.448Z Nest application successfully started }
+info: 2024-06-02T15:26:12.263Z TenantController {/tenant}: }
+info: 2024-06-02T15:26:12.267Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:26:12.267Z EmployeeController {/employee}: }
+info: 2024-06-02T15:26:12.268Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:26:12.268Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:26:12.269Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:26:12.269Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:26:12.275Z Nest application successfully started }
+info: 2024-06-02T15:26:21.299Z TenantController {/tenant}: }
+info: 2024-06-02T15:26:21.301Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:26:21.302Z EmployeeController {/employee}: }
+info: 2024-06-02T15:26:21.302Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:26:21.302Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:26:21.303Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:26:21.303Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:26:21.306Z Nest application successfully started }
+info: 2024-06-02T15:53:25.527Z TenantController {/tenant}: }
+info: 2024-06-02T15:53:25.529Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:53:25.529Z EmployeeController {/employee}: }
+info: 2024-06-02T15:53:25.530Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:53:25.530Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:53:25.530Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:53:25.531Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:53:25.534Z Nest application successfully started }
+info: 2024-06-02T15:53:45.141Z TenantController {/tenant}: }
+info: 2024-06-02T15:53:45.144Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:53:45.144Z EmployeeController {/employee}: }
+info: 2024-06-02T15:53:45.144Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:53:45.145Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:53:45.145Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:53:45.145Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:53:45.148Z Nest application successfully started }
+info: 2024-06-02T15:54:09.572Z TenantController {/tenant}: }
+info: 2024-06-02T15:54:09.575Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:54:09.575Z EmployeeController {/employee}: }
+info: 2024-06-02T15:54:09.575Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:54:09.576Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:54:09.576Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:54:09.576Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:54:09.579Z Nest application successfully started }
+info: 2024-06-02T15:55:01.458Z TenantController {/tenant}: }
+info: 2024-06-02T15:55:01.461Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:55:01.461Z EmployeeController {/employee}: }
+info: 2024-06-02T15:55:01.462Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:55:01.462Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:55:01.462Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:55:01.463Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:55:01.465Z Nest application successfully started }
+info: 2024-06-02T15:55:19.744Z TenantController {/tenant}: }
+info: 2024-06-02T15:55:19.747Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:55:19.747Z EmployeeController {/employee}: }
+info: 2024-06-02T15:55:19.747Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:55:19.748Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:55:19.748Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:55:19.748Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:55:19.751Z Nest application successfully started }
+info: 2024-06-02T15:56:16.551Z TenantController {/tenant}: }
+info: 2024-06-02T15:56:16.553Z Mapped {/tenant/create-tenant, POST} route }
+info: 2024-06-02T15:56:16.553Z EmployeeController {/employee}: }
+info: 2024-06-02T15:56:16.554Z Mapped {/employee, POST} route }
+info: 2024-06-02T15:56:16.554Z Mapped {/employee, GET} route }
+info: 2024-06-02T15:56:16.554Z Mapped {/employee, PATCH} route }
+info: 2024-06-02T15:56:16.555Z Mapped {/employee, DELETE} route }
+info: 2024-06-02T15:56:16.558Z Nest application successfully started }
