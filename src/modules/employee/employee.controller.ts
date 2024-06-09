@@ -13,25 +13,25 @@ export class EmployeeController {
 
     @Post('/')
     async createEmployee(@Body() createEmployeeDto: CreateEmployeeDto, @Headers() headerDto: HeaderDto, @Res() res: Response) {
-        const [status, result] = await this.employeeService.createEmployee(createEmployeeDto, res.locals.tenantPool);
+        const [status, result] = await this.employeeService.createEmployee(createEmployeeDto, res.locals.tenantDataSource);
         return this.httpResponse.sendResponse(res, status, result);
     }
 
     @Get('/')
     async getEmployeeById(@Query() employeeByIdDto: EmployeeByIdDto, @Headers() headerDto: HeaderDto, @Res() res: Response) {
-        const [status, result] = await this.employeeService.getEmployeeById(employeeByIdDto, res.locals.tenantPool);
+        const [status, result] = await this.employeeService.getEmployeeById(employeeByIdDto, res.locals.tenantDataSource);
         return this.httpResponse.sendResponse(res, status, result);
     }
 
     @Patch('/')
     async updateEmployeeById(@Query() employeeByIdDto: EmployeeByIdDto, @Body() updateEmployeeDto: UpdateEmployeeDto, @Headers() headerDto: HeaderDto, @Res() res: Response) {
-        const [status, result] = await this.employeeService.updateEmployeeById(employeeByIdDto, updateEmployeeDto, res.locals.tenantPool);
+        const [status, result] = await this.employeeService.updateEmployeeById(employeeByIdDto, updateEmployeeDto, res.locals.tenantDataSource);
         return this.httpResponse.sendResponse(res, status, result);
     }
 
     @Delete('/')
     async deleteEmployeeById(@Query() employeeByIdDto: EmployeeByIdDto, @Headers() headerDto: HeaderDto, @Res() res: Response) {
-        const [status, result] = await this.employeeService.deleteEmployeeById(employeeByIdDto, res.locals.tenantPool);
+        const [status, result] = await this.employeeService.deleteEmployeeById(employeeByIdDto, res.locals.tenantDataSource);
         return this.httpResponse.sendResponse(res, status, result);
     }
 }
