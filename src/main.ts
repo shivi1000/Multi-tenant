@@ -1,3 +1,4 @@
+import 'dd-trace/init';
 import { ValidationPipe } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { HttpAdapterHost, NestFactory } from '@nestjs/core';
@@ -8,13 +9,13 @@ import { AllExceptionsFilter } from './filters/exceptionFilter';
 import { LoggerMiddleware } from './middlewares/logging.middleware';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 import { Swagger } from './common/constant';
+import { LoggerService } from './configuration/logger.service'; 
+//import { MetricsService } from './configuration/metrics';
 
 async function bootstrap() {
-  // Create the NestJS application
   const app = await NestFactory.create(AppModule);
-  app.enableShutdownHooks(); // Enable shutdown hooks to gracefully handle shutdown
+  app.enableShutdownHooks();
 
-  // Use express middleware to parse JSON requests and store the raw request body
   app.use(
     express.json({
       verify: (req: any, res, buf) => {
@@ -23,7 +24,6 @@ async function bootstrap() {
     }),
   );
 
-  // Use global validation pipe for automatic input validation
   app.useGlobalPipes(
     new ValidationPipe({
       transform: true,
@@ -31,21 +31,21 @@ async function bootstrap() {
     }),
   );
 
-  // Enable CORS for the application
   app.enableCors();
 
-  // Use custom logger middleware and set up Winston logger
   app.use(new LoggerMiddleware().use);
   app.useLogger(app.get(WINSTON_MODULE_NEST_PROVIDER));
 
-  // Get the HTTP adapter to use in global exception filters
   const httpAdapter = app.get(HttpAdapterHost);
   app.useGlobalFilters(new AllExceptionsFilter(httpAdapter));
 
-  // Get the configuration service to retrieve environment variables
   const configService = app.get(ConfigService);
+  const logger = app.get(LoggerService);
+  //const metricsService = app.get(MetricsService);
 
-  // Retrieve the HTTP port from the configuration or use a default value
+  // Initialize metrics
+  //metricsService.initializeMetrics();
+
   const nestPort: number = configService.get<number>('PORT') || 8001;
 
   const config = new DocumentBuilder()
@@ -66,10 +66,10 @@ async function bootstrap() {
   const document = SwaggerModule.createDocument(app, config);
   SwaggerModule.setup(Swagger.Path, app, document);
 
-  // Start the NestJS application
   await app.listen(nestPort);
-  console.info(`Nest server listening on Port: ${nestPort}`);
+  logger.log(`Nest server listening on Port: ${nestPort}`);
+  
+  console.log(`Nest server listening on Port: ${nestPort}`);
 }
 
-// Call the bootstrap function to start the application
 bootstrap();

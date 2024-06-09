@@ -10,18 +10,21 @@ import { AllExceptionsFilter } from 'src/filters/exceptionFilter';
 import { TenantModule } from './modules/tenant/tenant.module';
 import { ConnectionPoolModule } from './providers/connection-pool/connection-pool.module';
 import { EmployeeModule } from './modules/employee/employee.module';
+import { LoggerService } from './configuration/logger.service';
 
-//for routing path 
+
+// for routing path
 const routes: Routes = [
-      {
-        path: '/tenant',
-        module: TenantModule,
-      },
-      {
-        path: '/',
-        module: EmployeeModule,
-      },
+  {
+    path: '/tenant',
+    module: TenantModule,
+  },
+  {
+    path: '/',
+    module: EmployeeModule,
+  },
 ];
+
 @Module({
   imports: [
     ConfigModule.forRoot({ load: [configuration], isGlobal: true }),
@@ -38,6 +41,8 @@ const routes: Routes = [
       provide: APP_FILTER,
       useClass: AllExceptionsFilter,
     },
+    LoggerService, 
   ],
+  exports: [LoggerService], 
 })
 export class AppModule {}

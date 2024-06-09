@@ -18,5 +18,7 @@
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "esModuleInterop": true,
-  }
+    "typeRoots": ["./node_modules/@types", "./typings"]
+  },
+  "include": ["src/**/*.ts", "typings/**/*.d.ts"]
 }

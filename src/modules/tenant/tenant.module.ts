@@ -7,11 +7,13 @@ import { TenantController } from './tenant.controller';
 import { DatabaseService } from 'src/providers/database/db.service';
 import { EncryptionService } from 'src/providers/encrption/encryption.service';
 import { Queries } from 'src/queryBuilder/employee';
+import { LoggerService } from 'src/configuration/logger.service';
+// import { MetricsService } from 'src/configuration/metrics';
 
 @Module({
   imports: [ConfigModule.forRoot(), EntityModule],
   controllers: [TenantController],
-  providers: [TenantService, HttpResponse, DatabaseService, EncryptionService, Queries],
+  providers: [TenantService, HttpResponse, DatabaseService, EncryptionService, Queries, LoggerService],
 })
 export class TenantModule {
 }

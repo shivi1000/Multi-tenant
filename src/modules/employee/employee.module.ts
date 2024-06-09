@@ -9,11 +9,13 @@ import { EmployeeController } from './employee.controller';
 import { ConnectionPoolService } from 'src/providers/connection-pool/connection-pool.service';
 import { EncryptionService } from 'src/providers/encrption/encryption.service';
 import { Queries } from 'src/queryBuilder/employee';
+import { LoggerService } from 'src/configuration/logger.service';
+// import { MetricsService } from 'src/configuration/metrics';
 
 @Module({
   imports: [ConfigModule.forRoot(), EntityModule],
   controllers: [EmployeeController],
-  providers: [EmployeeService, HttpResponse, DatabaseService, ConnectionPoolService, EncryptionService, Queries],
+  providers: [EmployeeService, HttpResponse, DatabaseService, ConnectionPoolService, EncryptionService, Queries, LoggerService],
 })
 export class EmployeeModule {
   configure(consumer: MiddlewareConsumer) {
